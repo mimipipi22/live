@@ -729,9 +729,9 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
 ###KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭 (CVG)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -756,7 +756,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
 ###KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
 
 ### ---------------- HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -773,7 +773,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
 ###KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 ### ---------------- HBO FAMILY
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -790,7 +790,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 ###KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 ### ---------------- CINEMAX
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -808,6 +808,9 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
 ###KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 ###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186329&ispcode=55
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -940,7 +943,7 @@ https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="MOVIES",ROCK ACTION 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
 
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="MOVIES",ROCK EXTREME
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -987,6 +990,9 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL 🇵🇭 (CVG)
+http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
+
 #======================================================== HITS MOVIES ====================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1007,7 +1013,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-32777
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 #EXTINF:-1 tvg-id="HITS.MOVIES.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES 🇵🇭
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+###https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 #======================================================== MY CINEMA EUROPE ====================================================================
 
@@ -1025,6 +1031,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="MOVIES",CCM (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="MOVIES",CCM 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
 
 #======================================================== Z BIOSKOP ====================================================================
 
@@ -1113,7 +1122,7 @@ http://103.58.160.157:8278/720-AXN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 ###KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1142,7 +1151,7 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
 ###KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV 🇵🇭 (CVG)
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1181,7 +1190,7 @@ https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-av
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 ###KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
 
 #======================================================== HITS NOW ====================================================================
 
@@ -1206,7 +1215,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/in
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 ###KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
 #EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hitsnow.jpg" group-title="ENTERTAINMENT",HITS NOW 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
 #======================================================== HITS ====================================================================
 
@@ -1230,7 +1239,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-327770703000000
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 ###KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg" group-title="ENTERTAINMENT",HITS 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
 #======================================================== KIX ====================================================================
 
@@ -1253,7 +1262,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX 🇵🇭 (CVG)
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1281,7 +1290,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 ###KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/lifetime.jpg" group-title="ENTERTAINMENT",LIFETIME 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
 #======================================================== TVN ====================================================================
 
@@ -1372,7 +1381,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
 ###KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
 #======================================================== ANIPLUS ====================================================================
 
@@ -1654,7 +1663,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 ##KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 ### ---------------- SPOTV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1672,7 +1681,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 ###KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #======================================================== BEIN SPORTS ====================================================================
 ### ---------------- BEIN SPORTS 1
@@ -1965,7 +1974,7 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 ###KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #======================================================== VOLI TV ====================================================================
 
@@ -2148,7 +2157,7 @@ http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
 ###KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
 #EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang TV" tvg-logo="https://mimipipi22.github.io/logo/international/arirang.jpg" group-title="WORLD TV",ARIRANG 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang TV" tvg-logo="https://mimipipi22.github.io/logo/international/arirang.jpg" group-title="WORLD TV",ARIRANG 🇵🇭 (CVG)
 http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -2166,7 +2175,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 #KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
 ###KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 #EXTINF:-1 tvg-id="KBS.World.id" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="WORLD TV",KBS WORLD 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
 #======================================================== KBS KOREA ====================================================================
 
@@ -2203,7 +2212,7 @@ https://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000
 #KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
 ###KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 #EXTINF:-1 tvg-id="ABC.Australia.id" tvg-name="ABCAustralia.id" tvg-logo="https://mimipipi22.github.io/logo/international/abcaustralia.jpg" group-title="WORLD TV",ABC AUSTRALIA 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
 
 #EXTINF:-1 tvg-id="ABC.Australia.id" tvg-name="ABCAustralia.id" tvg-logo="https://mimipipi22.github.io/logo/international/abcaustralia.jpg" group-title="WORLD TV",ABC AUSTRALIA 🇵🇭 (CVG)
 http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -2225,6 +2234,21 @@ http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="NHK.World.Premium.id" tvg-name="NHK World Premium" tvg-logo="https://mimipipi22.github.io/logo/international/nhkwp.jpg" group-title="WORLD TV",NHK WORLD PREMIUM (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+
+#EXTINF:-1 tvg-id="NHK.BS" tvg-name="NHK BS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/japan/nhk-bs-jp.png" group-title="WORLD TV",NHK BS 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvraU%2BA8%2FN%2B6NCam0oBPn1syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1359033252120&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OPBUENZVWSGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20452820260101155239103653&ispcode=55
+
+#EXTINF:-1 tvg-id="NHK.BS" tvg-name="NHK BS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/japan/nhk-bs-premium-jp.png" group-title="WORLD TV",BS PREMIUM 🇵🇭 (CVG)
+http://136.239.173.10:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1819022413813&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02C8ZA4KMMUKXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155239199069&ispcode=55
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358" group-title="WORLD TV",BS FUJI 🇵🇭 (CVG)
+http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="" group-title="WORLD TV",BS NITTELE 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="" group-title="WORLD TV",BS 10 🇵🇭 (CVG)
+http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== NHK WORLD JAPAN ====================================================================
 
@@ -2264,7 +2288,10 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
 ###KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 #EXTINF:-1 tvg-id="nhk.world.Japan.id" tvg-name="NHK World Japan" tvg-logo="https://mimipipi22.github.io/logo/international/nhkwj.jpg" group-title="WORLD TV",NHK WORLD JAPAN 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd
+
+#EXTINF:-1 tvg-id="nhk.world.Japan.id" tvg-name="NHK World Japan" tvg-logo="https://mimipipi22.github.io/logo/international/nhkwj.jpg" group-title="WORLD TV",NHK WORLD JAPAN 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqZTKpeZkGzV2we2%2BZ6q6g3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1404568285744&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MIA1EKCJ1UFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447720260101155238222344&ispcode=55
 
 #======================================================== TV5 MONDE ====================================================================
 
@@ -2303,7 +2330,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 ###KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 #EXTINF:-1 tvg-id="TV5Monde.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg" group-title="WORLD TV",TV5 MONDE 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
 
 #EXTINF:-1 tvg-id="TV5Monde.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg" group-title="WORLD TV",TV5 MONDE 🇵🇭 (CVG)
 http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -2312,6 +2339,11 @@ http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5mondeinfo.jpg" group-title="WORLD TV",TV5 MONDE INFO (FEED)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#======================================================== TVE INT ====================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624" group-title="WORLD TV",TVE INT 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== RAI ITALY ====================================================================
 
@@ -2345,7 +2377,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
 ###KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
 #EXTINF:-1 tvg-id="CCTV4.id" tvg-name="CCTV4.id" tvg-logo="https://mimipipi22.github.io/logo/international/cctv4.jpg" group-title="WORLD TV",CCTV 4 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
+
+#EXTINF:-1 tvg-id="CCTV4.id" tvg-name="CCTV4.id" tvg-logo="https://mimipipi22.github.io/logo/international/cctv4.jpg" group-title="WORLD TV",CCTV 4 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1703612119129&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LGO7QMYP53CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155240346433&ispcode=55
 
 #======================================================== XING KONG ====================================================================
 
@@ -2358,7 +2393,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
 ###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 ###https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 
-#EXTINF:-1 tvg-id="Xing.Kong" tvg-name="Xingkong" tvg-logo="https://mimipipi22.github.io/logo/international/xingkong.jpg" group-title="WORLD TV",XING KONG 🇵🇭
+#EXTINF:-1 tvg-id="Xing.Kong" tvg-name="Xingkong" tvg-logo="https://mimipipi22.github.io/logo/international/xingkong.jpg" group-title="WORLD TV",XING KONG 🇵🇭 (CVG)
 ###http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== DRAGON TV ====================================================================
@@ -2489,6 +2524,9 @@ https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
+#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png",PHOENIX INFONEWS 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #======================================================== NEW TV ====================================================================
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2520,6 +2558,12 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1729661201&
 https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 
+#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s",SAUDI TV 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1635054451771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=17AVARI79W0IXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",ALL TV 🇵🇭 (CVG)
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #======================================================== END LIST ====================================================================
 
 
@@ -2539,7 +2583,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
 ###KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 #EXTINF:-1 tvg-id="CNN.International.id" tvg-name="CNN International" tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="NEWS",CNN INT 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="CNN.International.id" tvg-name="CNN International" tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="NEWS",CNN INT 🇵🇭 (CVG)
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -2575,7 +2619,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
 ###KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 #EXTINF:-1 tvg-id="BBC.World.News.id" tvg-name="BBC News" tvg-logo="https://mimipipi22.github.io/logo/news/bbcnews.jpg" group-title="NEWS",BBC NEWS 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2594,6 +2638,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://mimipipi22.github.io/logo/news/foxnews.jpg" group-title="NEWS",FOX NEWS (VS+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
+
+#EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://mimipipi22.github.io/logo/news/foxnews.jpg" group-title="NEWS",FOX NEWS 🇵🇭 (CVG)
+http://136.239.173.10:6610/001/2/ch00000090990000001105/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJrNGPTxGM8qlI%2FCYICZgnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001220&contentid=ch00000000000000001220&videoid=ch00000090990000001105&recommendtype=0&userid=1221561345308&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3IL8RUTMYBCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155237172197&ispcode=55
 
 #======================================================== DW ENGLISH ====================================================================
 
@@ -2651,7 +2698,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
 ###KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
 #EXTINF:-1 tvg-id="France.24.English.id" tvg-name="France 24 English" tvg-logo="https://mimipipi22.github.io/logo/news/france24.jpg" group-title="NEWS",FRANCE24 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
 
 #EXTINF:-1 tvg-id="France.24.English.id" tvg-name="France 24 English" tvg-logo="https://mimipipi22.github.io/logo/news/france24.jpg" group-title="NEWS",FRANCE24 🇵🇭 (CVG)
 http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br79DvzaC5n7CqXniN8aprYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1349970790575&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HLVGZN99ZDDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -2713,7 +2760,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h143/index2.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
 ###KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
 #EXTINF:-1 tvg-id="Al.Jazeera.English.id" tvg-name="Al Jazeera English" tvg-logo="https://mimipipi22.github.io/logo/news/aljazeeraeng.jpg" group-title="NEWS",ALJAZEERA ENGLISH 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
+
+#EXTINF:-1 tvg-id="Al.Jazeera.English.id" tvg-name="Al Jazeera English" tvg-logo="https://mimipipi22.github.io/logo/news/aljazeeraeng.jpg" group-title="NEWS",ALJAZEERA ENGLISH 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApIEgcDfK9VMvZFzWy7ZaCt2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1348066725359&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5XCX4OM7YT7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241049001&ispcode=55
 
 ### ---------------- ALJAZEERA ARAB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -2773,8 +2823,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://mimipipi22.github.io/logo/news/euronews.jpg" group-title="NEWS",EURONEWS (MAX)
+#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://mimipipi22.github.io/logo/news/euronews.jpg" group-title="NEWS",EURONEWS (FEED)
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://mimipipi22.github.io/logo/news/euronews.jpg" group-title="NEWS",EURONEWS 🇵🇭 (CVG)
+http://136.239.158.30:6610/001/2/ch00000090990000001336/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001827&contentid=ch00000000000000001827&videoid=ch00000090990000001336&recommendtype=0&userid=1181735797657&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B9K7OQAC78AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155241199112&ispcode=55
 
 #======================================================== CNA ====================================================================
 
@@ -2838,7 +2891,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 #EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://mimipipi22.github.io/logo/news/cgtn.jpg" group-title="NEWS",CGTN (FEED)
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://mimipipi22.github.io/logo/news/cgtn.jpg" group-title="NEWS",CGTN 🇵🇭
+#EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://mimipipi22.github.io/logo/news/cgtn.jpg" group-title="NEWS",CGTN 🇵🇭 (CVG)
 http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== WION ====================================================================
@@ -2847,6 +2900,9 @@ http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://mimipipi22.github.io/logo/news/wion.jpg" group-title="NEWS",WION (DNS)
 https://op-flashcon-digdayaxenkoda.dens.tv/4797e82c-d14e-453e-b8d6-3e2427ad09a9/stream.m3u8?app_type=web&userid=lite&chname=WION
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://mimipipi22.github.io/logo/news/wion.jpg" group-title="NEWS",WION 🇵🇭 (CVG)
+http://136.239.159.20:6610/001/2/ch00000090990000001265/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq8k274WYPuH9%2FjID6Bh2tQ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001695&contentid=ch00000000000000001695&videoid=ch00000090990000001265&recommendtype=0&userid=1780179991829&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DARB71YAJ45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063272&ispcode=55
 
 #======================================================== CNBC ASIA ====================================================================
 
@@ -2892,7 +2948,7 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
 ###KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="Bloomberg TV" tvg-logo="https://mimipipi22.github.io/logo/news/bloomberg.jpg" group-title="NEWS",BLOOMBERG 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2940,6 +2996,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani" tvg-logo="https://mimipipi22.github.io/logo/news/astroawani.jpg" group-title="NEWS",ASTRO AWANI (FEED)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/usa_today-logo_brandlogos.net_9jygb.png" group-title="NEWS",USA TODAY 🇵🇭 (CVG)
+http://136.239.159.20:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoYf5t%2B2bebnbia7IXJABLsytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001434&contentid=ch00000000000000001434&videoid=ch00000090990000001199&recommendtype=0&userid=1672704114701&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IZGB59APCIXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="NEWS",DIM TV (DNS)
@@ -2978,7 +3037,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index
 #KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
 ###KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 #EXTINF:-1 tvg-id="BBC.Earth.id" tvg-name="BBC Earth" tvg-logo="https://mimipipi22.github.io/logo/knowledge/bbcearth.jpg" group-title="KNOWLEDGE",BBC EARTH 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3008,6 +3067,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 #EXTINF:-1 tvg-id="CGTN.Documentary.id" tvg-name="CGTN Documentary" tvg-logo="https://mimipipi22.github.io/logo/knowledge/cgtndoc.jpg" group-title="KNOWLEDGE",CGTN DOC (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="CGTN.Documentary.id" tvg-name="CGTN Documentary" tvg-logo="https://mimipipi22.github.io/logo/knowledge/cgtndoc.jpg" group-title="KNOWLEDGE",CGTN DOC 🇵🇭 (CVG)
+http://136.239.158.30:6610/001/2/ch00000090990000001110/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArdyomhJMtr4RuT7a45TbNMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001253&contentid=ch00000000000000001253&videoid=ch00000090990000001110&recommendtype=0&userid=1624995133910&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YIL44C7PHAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186331&ispcode=55
+
 ### ---------------- CGTN DISCOVERING CHINA
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovering-china.jpg" group-title="KNOWLEDGE",CGTN DISCOVERING CHINA
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
@@ -3034,7 +3096,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 ###KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 #EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="Crime Investigation" tvg-logo="https://mimipipi22.github.io/logo/knowledge/crimeinvestigation.jpg" group-title="KNOWLEDGE",CRIME+ INVESTIGATION 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
 
 #======================================================== DISCOVERY ====================================================================
 ### ---------------- DISCOVERY CHANNEL
@@ -3052,7 +3114,10 @@ http://202.169.224.202:8800/udp/239.9.1.6:1234
 #KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
 ###KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL 🇵🇭 (CVG)
+http://136.239.173.10:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001816&contentid=ch00000000000000001816&videoid=ch00000090990000001334&recommendtype=0&userid=1996608135992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0WQVURILRBKFXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241048997&ispcode=55
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3125,7 +3190,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
 #EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="KNOWLEDGE",HISTORY 🇵🇭
-http://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
+###http://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
 #======================================================== ANIMAL PLANET ====================================================================
 
@@ -3141,6 +3206,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-name="Animal Planet" tvg-logo="https://mimipipi22.github.io/logo/knowledge/animalplanet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Animal.Planet.id" tvg-name="Animal Planet" tvg-logo="https://mimipipi22.github.io/logo/knowledge/animalplanet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001825&contentid=ch00000000000000001825&videoid=ch00000090990000001335&recommendtype=0&userid=1196740911215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=87D9GXACFV2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445820260101155241166072&ispcode=55
 
 #======================================================== LOVE NATURE ====================================================================
 
@@ -3215,7 +3283,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
 ###KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3271,7 +3339,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
 ###KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
 #EXTINF:-1 tvg-id="Dreamworks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg" group-title="KIDS",DREAMWORKS 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3305,7 +3373,7 @@ https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3
 #KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
 ###KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK (USA)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -3326,7 +3394,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_key=ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
 ###KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 #EXTINF:-1 tvg-id="Nick.Junior.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
 
 #EXTINF:-1 tvg-id="Nick.Junior.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR 🇵🇭 (CVG)
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -3371,7 +3439,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/198f7febb48c4c909d62977d88c195b0/index
 #KODIPROP:inputstream.adaptive.license_key=48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
 ###KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 #EXTINF:0 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
 #======================================================== CBEEBIES ====================================================================
 
@@ -3683,7 +3751,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTr
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 ##KODIPROP:inputstream.adaptive.license_key=b7a6c5d23f1e4a9d8c721e5d9f4a6b13:63ca9ad0d88fccb8c667b028f47287ba
 #EXTINF:-1 tvg-id="Global.Trekker.id" tvg-name="Global Trekker" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/globaltrekker.jpg" group-title="LIFESTYLE",GLOBAL TREKKER 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd
 
 #======================================================== FOOD TRAVEL ====================================================================
 
@@ -3698,13 +3766,13 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 
 #======================================================== ASIAN FOOD NETWORK ====================================================================
 
-#EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN 🇵🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
 ###KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+#EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN 🇵🇭
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
 #======================================================== HGTV ====================================================================
 
@@ -3716,7 +3784,7 @@ http://202.169.224.202:8800/udp/239.9.1.3:1234
 ###KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/hgtv.jpg" group-title="LIFESTYLE",HGTV 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
 #======================================================== FOOD NETWORK ====================================================================
 
@@ -3734,7 +3802,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetwor
 #KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
 ###KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodnetwork.jpg" group-title="LIFESTYLE",FOOD NETWORK 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodnetwork.jpg" group-title="LIFESTYLE",FOOD NETWORK (USA)
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
@@ -3758,7 +3826,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853238412b11edb8780242ac120002:84909ea5ec7ad3ca93c8b94c083f3116
 #EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="LIFESTYLE",TLC 🇵🇭
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tlc.mpd
+###https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tlc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3798,7 +3866,7 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 #KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
 ###KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 #EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHION TV 🇵🇭
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+###https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 #EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHION TV 🇵🇭 (CVG)
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -4114,7 +4182,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
 #EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/ewtn.jpg" group-title="RELIGION",EWTN (V+)
 ###https://fta3-cdn-flr.visionplus.id/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
-#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/ewtn.jpg" group-title="RELIGION",EWTN 🇵🇭
+#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/ewtn.jpg" group-title="RELIGION",EWTN 🇵🇭 (CVG)
 http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== LIFE ====================================================================
@@ -4364,6 +4432,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
 
 #EXTINF:-1 player-buffer="2" tvg-id="288.unifi" ch-number="288" tvg-name="HiYah" tvg-logo="https://get.perfecttv.net/logo/hiyah.png" group-title="⭐MOVIES⭐",HI-YAH
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+
+#======================================================== LOTUS MACAO ====================================================================
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="⭐MOVIES⭐",LOTUS MACAO 🇵🇭 (CVG)
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== END LIST ====================================================================
 
@@ -4635,6 +4708,15 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&exte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521" group-title="⭐SPORTS⭐",PREMIER FOOTBALL 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70HMV2A.png" group-title="⭐SPORTS⭐",PREMIER SPORT 🇵🇭 (CVG)
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" group-title="⭐SPORTS⭐",PREMIER SPORT 2 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== TNT SPORT ====================================================================
 
