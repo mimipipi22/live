@@ -2069,10 +2069,13 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
 #======================================================== MOJI TV SPORT ====================================================================
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:network-caching=2000
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="SPORTS",MOJI TV SPORT
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #======================================================== TVRI SPORT ====================================================================
 
