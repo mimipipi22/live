@@ -180,6 +180,10 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (YTB)
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+
 #======================================================== SCTV ====================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -479,6 +483,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV",BTV (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV",BTV (FEED)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
 #======================================================== BTV ====================================================================
 
@@ -2290,9 +2298,9 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #======================================================== NBA TV ====================================================================
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+###KODIPROP:inputstream.adaptive.manifest_type=mpd
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
@@ -2306,14 +2314,8 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
 #======================================================== VOLI TV ====================================================================
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Voli.TV.id" tvg-name="VOLI TV" tvg-logo="https://mimipipi22.github.io/logo/sports/volitv.jpg" group-title="SPORTS",VOLI TV
-###https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=dash
-###https://pidio.becek.workers.dev/21178.mpd
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/16.m3u8
 
 #======================================================== MOJI TV SPORT ====================================================================
