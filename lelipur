@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-08-19 11:09:00 GMT+7 "
+# (●) Last Update: 2026-08-20 11:09:00 GMT+7 "
 # (●) Service: Lelipur
 # (●) Total Channels: Null
 
@@ -5835,6 +5835,189 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#======================================================== END LIST ====================================================================
+
+
+//========================================================================
+🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> ⭐LIVE SPORTS⭐
+//========================================================================
+
+#========================================================  ====================================================================
+
+#EXTINF:0 tvg-id="" group-title="⭐LIVE SPORTS⭐",MLB TV
+https://cdtest.global.ssl.fastly.net/1787315601~acc2e1ecaa0f4f60ff7d4e36b98d6653/perdias/337889/chunks.m3u8
+#EXTINF:0 tvg-id="T" group-title="⭐LIVE SPORTS⭐",MLB TV
+https://cdtest.global.ssl.fastly.net/1787315601~096e132e8522d08ceb2f77262d11176f/perdias/2337889/chunks.m3u8
+#EXTINF:0 tvg-id="" group-title="⭐LIVE SPORTS⭐",MLB TV
+https://cdtest.global.ssl.fastly.net/1787315601~124f55c2354f10a6d61ce049dc68fb0b/perdias/337887/chunks.m3u8
+#EXTINF:0 tvg-id="" group-title="⭐LIVE SPORTS⭐",MLB TV
+https://cdtest.global.ssl.fastly.net/1787315601~cc11d88afab04bc23d5fd1a7959feb21/perdias/2337887/chunks.m3u8
+
+#EXTINF:0 tvg-id="NFL Network" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="⭐LIVE SPORTS⭐",NFL Network
+https://cdtest.global.ssl.fastly.net/1787315601~da4728ff49d77186c31a1f711bb9d7a4/channel/0006/chunks.m3u8
+#EXTINF:0 tvg-id="Red Zone" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="⭐LIVE SPORTS⭐",Red Zone
+https://cdtest.global.ssl.fastly.net/1787315601~8938a13ae590b40911ec87477984336b/channel/011/chunks.m3u8
+#EXTINF:0 tvg-id="Red Zone2" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="⭐LIVE SPORTS⭐",Red Zone2
+https://cdtest.global.ssl.fastly.net/1787315601~ca7ad2d1b380837f97ca0719238521a7/channel/161/chunks.m3u8
+#EXTINF:0 tvg-id="PAC 12 Network" tvg-logo="https://gamepanel.work/logos/pac12.png" group-title="⭐LIVE SPORTS⭐",PAC 12 Network
+https://cdtest.global.ssl.fastly.net/1787315601~29c6715994be717833a4568196e48364/channel/160/chunks.m3u8
+#EXTINF:0 tvg-id="Marquee Network" tvg-logo="https://gamepanel.work/logos/marquee.jpg" group-title="⭐LIVE SPORTS⭐",Marquee Network
+https://cdtest.global.ssl.fastly.net/1787315601~2137eb95b395f9d5ba6f3cdcd895097d/channel/124/chunks.m3u8
+#EXTINF:0 tvg-id="NBA TV" tvg-logo="https://nflhd.tv/img/nbatv.jpg" group-title="⭐LIVE SPORTS⭐",NBA TV
+https://cdtest.global.ssl.fastly.net/1787315601~568ddcffabd4b871d59233394eea8b4c/luster/15/chunks.m3u8
+#EXTINF:0 tvg-id="NHL Network" tvg-logo="https://nflhd.tv/nhl-network.png" group-title="⭐LIVE SPORTS⭐",NHL Network
+https://cdtest.global.ssl.fastly.net/1787315601~4ea38f9eed2b89bd56fadb19d2b59f98/channel/12/chunks.m3u8
+#EXTINF:0 tvg-id="MLB Network" tvg-logo="https://nflhd.tv/img/mlb-network.jpg?i=1" group-title="⭐LIVE SPORTS⭐",MLB Network
+https://cdtest.global.ssl.fastly.net/1787315601~2b0ba3148e53d03093ed8dc0e1e86f8b/channel/14/chunks.m3u8
+#EXTINF:0 tvg-id="Root Sports NW" tvg-logo="https://gamepanel.work/logos/root-sports.jpg" group-title="⭐LIVE SPORTS⭐",Root Sports NW
+https://cdtest.global.ssl.fastly.net/1787315601~ce2ccda527b5cd138d0d5cdf2a12f0f6/channel/153/chunks.m3u8
+
+#EXTINF:0 tvg-id="FanDuel Sports Network Detroit" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Detroit-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Detroit
+https://cdtest.global.ssl.fastly.net/1787315601~b06784c858de4917a3a7860fc556ad02/channel/68/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Florida" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Florida-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Florida
+https://cdtest.global.ssl.fastly.net/1787315601~d22c2e710be3bc72183ca6960e14c7f0/channel/69/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Great Lakes" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Ohio-Great-Lakes-Logo.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Great Lakes
+https://cdtest.global.ssl.fastly.net/1787315601~19daef66a727553c21d07fdd5931354c/channel/83/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Indiana" tvg-logo="https://gamepanel.work/logos/bally-sports-indiana.jpg?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Indiana
+https://cdtest.global.ssl.fastly.net/1787315601~beba7a0929687c0c9f9a9054923bf7fd/channel/119/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Kansas City" tvg-logo="https://gamepanel.work/logos/bally-sports-kc.png?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Kansas City
+https://cdtest.global.ssl.fastly.net/1787315601~80810ad49b1d5e54683c446069b2652a/channel/157/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Midwest" tvg-logo="https://gamepanel.work/logos/Bally-sports-Midwest.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Midwest
+https://cdtest.global.ssl.fastly.net/1787315601~7e3fec6ac6a0d4ce5559a622a24aeb69/channel/70/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network New Orleans" tvg-logo="https://gamepanel.work/logos/Bally-sports-New-Orleans.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network New Orleans
+https://cdtest.global.ssl.fastly.net/1787315601~fbf1193adfe2243a00036d272e5c4ad3/channel/71/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network North" tvg-logo="https://gamepanel.work/logos/bally-sports-north.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network North
+https://cdtest.global.ssl.fastly.net/1787315601~6660e3d429e7860c0eb206b3382bc1da/channel/63/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network North +" tvg-logo="https://gamepanel.work/logos/Bally-sports-north-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network North +
+https://cdtest.global.ssl.fastly.net/1787315601~49a15d5b62513e52e7312816abe4af48/channel/66/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Ohio" tvg-logo="https://gamepanel.work/logos/Bally-sports-ohio.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Ohio
+https://cdtest.global.ssl.fastly.net/1787315601~37e9cc7311f5361234932149d42e17a0/channel/64/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Oklahoma" tvg-logo="https://gamepanel.work/logos/Bally-sports-Oklahoma.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Oklahoma
+https://cdtest.global.ssl.fastly.net/1787315601~9e3da75b662c770883b1b94765c69ae3/channel/73/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network San Diego" tvg-logo="https://gamepanel.work/logos/Bally-sports-san-deigo.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network San Diego
+https://cdtest.global.ssl.fastly.net/1787315601~81b3ca42075a525ab58f7bc005a18ea2/channel/75/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network SoCal" tvg-logo="https://gamepanel.work/logos/bally-sports-socal.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network SoCal
+https://cdtest.global.ssl.fastly.net/1787315601~4f6163607e44b4bfcec4c71ae68b323d/channel/79/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network South" tvg-logo="https://gamepanel.work/logos/bally-south.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network South
+https://cdtest.global.ssl.fastly.net/1787315601~3d9273c9135fd0c14f0ed62feda48ba2/channel/76/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Southeast" tvg-logo="https://gamepanel.work/logos/bally-southeast.png?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Southeast
+https://cdtest.global.ssl.fastly.net/1787315601~f3df19567a9a1467876d249c84c18108/channel/156/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Sun" tvg-logo="https://gamepanel.work/logos/Bally-sports-sun.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Sun
+https://cdtest.global.ssl.fastly.net/1787315601~5ecfc424f04959208eadf001c18ea35b/channel/78/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network West" tvg-logo="https://gamepanel.work/logos/Bally-sports-west.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network West
+https://cdtest.global.ssl.fastly.net/1787315601~a189fa0af8962d0fd40f21faf4c42e52/channel/80/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin" tvg-logo="https://gamepanel.work/logos/bally-wisconsin.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin
+https://cdtest.global.ssl.fastly.net/1787315601~907cfced36491f81caf598c5e973875a/channel/81/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin +" tvg-logo="https://gamepanel.work/logos/bally-wisconsin-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin +
+https://cdtest.global.ssl.fastly.net/1787315601~b46007ceaf2ef3bf390ba7726ff4f879/channel/147/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin Extra" tvg-logo="https://gamepanel.work/logos/bally-ohiocincinnati.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin Extra
+https://cdtest.global.ssl.fastly.net/1787315601~77f1eaa5e11a87b696dacaa55b2d9708/channel/129/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network South +" tvg-logo="https://gamepanel.work/logos/bally-south-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network South +
+https://cdtest.global.ssl.fastly.net/1787315601~ab7d94ec703cdbfb8b26573abc332f62/channel/145/chunks.m3u8
+#EXTINF:0 tvg-id="FanDuel Sports Network Southwest" tvg-logo="https://gamepanel.work/logos/bally-sports-southwest-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Southwest
+https://cdtest.global.ssl.fastly.net/1787315601~b1725188efc2138b30d173e72a2f3563/channel/120/chunks.m3u8
+
+#EXTINF:0 tvg-id="Yes Network" tvg-logo="https://gamepanel.work/logos/Yes-Network.jpg" group-title="⭐LIVE SPORTS⭐",Yes Network
+https://cdtest.global.ssl.fastly.net/1787315601~c265fff1cce2cb9aec6421b0f9f78cd4/channel/82/chunks.m3u8
+#EXTINF:0 tvg-id="MASN" tvg-logo="https://gamepanel.work/logos/masn.jpg" group-title="⭐LIVE SPORTS⭐",MASN
+https://cdtest.global.ssl.fastly.net/1787315601~0027491d075c52a364ff649d4f25c69e/channel/135/chunks.m3u8
+#EXTINF:0 tvg-id="MASN2" tvg-logo="https://gamepanel.work/logos/masn2.jpg" group-title="⭐LIVE SPORTS⭐",MASN2
+https://cdtest.global.ssl.fastly.net/1787315601~7a6deb82fea2a5e93e4ad1a539e7b755/channel/136/chunks.m3u8
+#EXTINF:0 tvg-id="NESN" tvg-logo="https://gamepanel.work/logos/nesn.jpg" group-title="⭐LIVE SPORTS⭐",NESN
+https://cdtest.global.ssl.fastly.net/1787315601~30463a2d7a0e029e8e11fab17e755aa0/channel/137/chunks.m3u8
+#EXTINF:0 tvg-id="NESN2" tvg-logo="https://gamepanel.work/logos/nesn2.jpg" group-title="⭐LIVE SPORTS⭐",NESN2
+https://cdtest.global.ssl.fastly.net/1787315601~d658c8bf797666d5357e869dd8e80b41/channel/138/chunks.m3u8
+#EXTINF:0 tvg-id="SportsNet Lakers" tvg-logo="https://gamepanel.work/logos/lakers.jpg" group-title="⭐LIVE SPORTS⭐",SportsNet Lakers
+https://cdtest.global.ssl.fastly.net/1787315601~4287d5d625948827fca5ed827918bf95/channel/150/chunks.m3u8
+#EXTINF:0 tvg-id="SportsNet LA Dodgers" tvg-logo="https://gamepanel.work/logos/dodgers.jpg" group-title="⭐LIVE SPORTS⭐",SportsNet LA Dodgers
+https://cdtest.global.ssl.fastly.net/1787315601~5336707745cf34142a97dd4f6c275373/channel/151/chunks.m3u8
+#EXTINF:0 tvg-id="Space City Home" tvg-logo="https://gamepanel.work/logos/Space-City-Home-Network.jpg" group-title="⭐LIVE SPORTS⭐",Space City Home
+https://cdtest.global.ssl.fastly.net/1787315601~a4114fed83dc025dcf696eff98410474/channel/48/chunks.m3u8
+#EXTINF:0 tvg-id="AT&T Pittsburgh" tvg-logo="https://gamepanel.work/logos/att-pittshburg.jpg" group-title="⭐LIVE SPORTS⭐",AT&T Pittsburgh
+https://cdtest.global.ssl.fastly.net/1787315601~44af93268bfee42b6c88e53b9c9a3c62/channel/132/chunks.m3u8
+#EXTINF:0 tvg-id="Altitude Sports" tvg-logo="https://gamepanel.work/logos/altitude.jpg" group-title="⭐LIVE SPORTS⭐",Altitude Sports
+https://cdtest.global.ssl.fastly.net/1787315601~d6fa9ccf71b09aec8ddb74413d7ece28/channel/123/chunks.m3u8
+#EXTINF:0 tvg-id="MSG" tvg-logo="https://gamepanel.work/logos/msg.jpg" group-title="⭐LIVE SPORTS⭐",MSG
+https://cdtest.global.ssl.fastly.net/1787315601~95eee5656c58e9aad3f72292f986eee6/channel/122/chunks.m3u8
+#EXTINF:0 tvg-id="MSG+" tvg-logo="https://gamepanel.work/logos/msg-plus.jpg" group-title="⭐LIVE SPORTS⭐",MSG+
+https://cdtest.global.ssl.fastly.net/1787315601~3102c0c24f7f164ed63b3e071e86155c/channel/134/chunks.m3u8
+#EXTINF:0 tvg-id="TVG Network" tvg-logo="https://gamepanel.work/logos/tvg.jpg?i=1" group-title="⭐LIVE SPORTS⭐",TVG Network
+https://cdtest.global.ssl.fastly.net/1787315601~bfcf4fc49214d9903ba9889360695878/channel/142/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Bay Area" tvg-logo="https://gamepanel.work/logos/nbcsports-bayarea.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Bay Area
+https://cdtest.global.ssl.fastly.net/1787315601~8d99eb5e4c520091aa5f94181c25ddac/channel/84/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Bay Area+" tvg-logo="https://gamepanel.work/logos/nbcsports-bayareaplus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Bay Area+
+https://cdtest.global.ssl.fastly.net/1787315601~096955f2bb0999ac65f7cb47e7f608b9/channel/85/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Boston" tvg-logo="https://gamepanel.work/logos/nbcsports-boston.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Boston
+https://cdtest.global.ssl.fastly.net/1787315601~7775977ecbd254a2e532ab59201bcf89/channel/86/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports California" tvg-logo="https://gamepanel.work/logos/nbcsports-california.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports California
+https://cdtest.global.ssl.fastly.net/1787315601~cc5826a12dbb3f3312d0e7844743a8d2/channel/87/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports California+" tvg-logo="https://gamepanel.work/logos/nbc-california-plus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports California+
+https://cdtest.global.ssl.fastly.net/1787315601~fb47a367f4515f0634dc45766c908bde/channel/141/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Chicago" tvg-logo="https://gamepanel.work/logos/nbcsports-chicago.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Chicago
+https://cdtest.global.ssl.fastly.net/1787315601~e2a618b67ed4555a7b47905558f5fe9d/channel/88/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Philadelphia" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphia.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Philadelphia
+https://cdtest.global.ssl.fastly.net/1787315601~77e07a72d3db3b263f807d6be19defec/channel/90/chunks.m3u8
+#EXTINF:0 tvg-id="NBC Sports Philadelphia+" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphiaplus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Philadelphia+
+https://cdtest.global.ssl.fastly.net/1787315601~f8610cefb9cfd86e8ba7c445f62f8f4f/channel/91/chunks.m3u8
+#EXTINF:0 tvg-id="Monumental Sports" tvg-logo="https://gamepanel.work/logos/Monumental-sports-network.jpg" group-title="⭐LIVE SPORTS⭐",Monumental Sports
+https://cdtest.global.ssl.fastly.net/1787315601~6a4a6f942e4d0331f98d085634153b73/channel/92/chunks.m3u8
+#EXTINF:0 tvg-id="ESPN" tvg-logo="https://nflhd.tv/landing/espn.jpg" group-title="⭐LIVE SPORTS⭐",ESPN
+https://cdtest.global.ssl.fastly.net/1787315601~41cef5ac6bbd10afb37b373467382046/channel/n3/chunks.m3u8
+#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://nflhd.tv/ESPN2.png" group-title="⭐LIVE SPORTS⭐",ESPN 2
+https://cdtest.global.ssl.fastly.net/1787315601~c55a699f64d677286e922be91b0180b6/channel/4/chunks.m3u8
+#EXTINF:0 tvg-id="ESPNU" tvg-logo="https://gamepanel.work/logos/espnu.jpg" group-title="⭐LIVE SPORTS⭐",ESPNU
+https://cdtest.global.ssl.fastly.net/1787315601~8d66e9360ff2d4421d79df4b253ed9f3/channel/127/chunks.m3u8
+#EXTINF:0 tvg-id="Fox Sports 1" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="⭐LIVE SPORTS⭐",Fox Sports 1
+https://cdtest.global.ssl.fastly.net/1787315601~2b846c6d76414aa37d4b5414a63ed812/channel/7/chunks.m3u8
+#EXTINF:0 tvg-id="Fox Sports 2" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="⭐LIVE SPORTS⭐",Fox Sports 2
+https://cdtest.global.ssl.fastly.net/1787315601~1a9579ba7ab911ce618f6eaa49b335ba/channel/13/chunks.m3u8
+#EXTINF:0 tvg-id="BTN Network" tvg-logo="https://gamepanel.work/logos/btn.jpg" group-title="⭐LIVE SPORTS⭐",BTN Network
+https://cdtest.global.ssl.fastly.net/1787315601~3e8ac95297bcec7190f60b3e5038be34/channel/107/chunks.m3u8
+#EXTINF:0 tvg-id="NBC SNY" tvg-logo="https://gamepanel.work/logos/sny.jpg" group-title="⭐LIVE SPORTS⭐",NBC SNY
+https://cdtest.global.ssl.fastly.net/1787315601~6ac31fac8a71defd25b1fe7ce8911367/channel/95/chunks.m3u8
+#EXTINF:0 tvg-id="ACCN" tvg-logo="https://gamepanel.work/logos/accn.jpg" group-title="⭐LIVE SPORTS⭐",ACCN
+https://cdtest.global.ssl.fastly.net/1787315601~7f600e783b0b6a93996c92f235c3b0f4/channel/115/chunks.m3u8
+#EXTINF:0 tvg-id="SEC Network" tvg-logo="https://gamepanel.work/logos/sec.jpg" group-title="⭐LIVE SPORTS⭐",SEC Network
+https://cdtest.global.ssl.fastly.net/1787315601~1a58961496056f31fc02087fbef27086/channel/117/chunks.m3u8
+#EXTINF:0 tvg-id="Tennis Channel" tvg-logo="https://gamepanel.work/logos/tennis-channel.jpg" group-title="⭐LIVE SPORTS⭐",Tennis Channel
+https://cdtest.global.ssl.fastly.net/1787315601~2ac20b339de974ba204d316219d70c37/channel/n116/chunks.m3u8
+#EXTINF:0 tvg-id="CBS" tvg-logo="https://nflhd.tv/landing/cbs-sports.jpg" group-title="⭐LIVE SPORTS⭐",CBS
+https://cdtest.global.ssl.fastly.net/1787315601~f51b65149bce49c796c0622ca53fdcd3/channel/5/chunks.m3u8
+
+#EXTINF:0 tvg-id="TSN 1" tvg-logo="https://nflhd.tv/landing/tsn1.jpg" group-title="⭐LIVE SPORTS⭐",TSN 1
+https://cdtest.global.ssl.fastly.net/1787315601~73616b276d636310362208c8f3036296/channel/58/chunks.m3u8
+#EXTINF:0 tvg-id="TSN 2" tvg-logo="https://nflhd.tv/landing/tsn2.jpg" group-title="⭐LIVE SPORTS⭐",TSN 2
+https://cdtest.global.ssl.fastly.net/1787315601~6e6df5a2caf4aed0678a0abf1cea71c0/channel/59/chunks.m3u8
+#EXTINF:0 tvg-id="TSN 3" tvg-logo="https://nflhd.tv/landing/tsn3.jpg" group-title="⭐LIVE SPORTS⭐",TSN 3
+https://cdtest.global.ssl.fastly.net/1787315601~7c165cffaf561624125ee6192ae9a2f9/channel/60/chunks.m3u8
+#EXTINF:0 tvg-id="TSN 4" tvg-logo="https://nflhd.tv/landing/tsn4.jpg" group-title="⭐LIVE SPORTS⭐",TSN 4
+https://cdtest.global.ssl.fastly.net/1787315601~0e917f6e201005c8839eef66afcc7a1e/channel/61/chunks.m3u8
+#EXTINF:0 tvg-id="TSN 5" tvg-logo="https://nflhd.tv/landing/tsn5.jpg" group-title="⭐LIVE SPORTS⭐",TSN 5
+https://cdtest.global.ssl.fastly.net/1787315601~6754f42e07e48d74673e78da7fcbc94a/channel/62/chunks.m3u8
+
+#EXTINF:0 tvg-id="Star Sports Hindi" tvg-logo="https://nflhd.tv/logos/star-sports-hindi.jpg?i=1" group-title="⭐LIVE SPORTS⭐",Star Sports Hindi
+https://cdtest.global.ssl.fastly.net/1787315601~140360e3be3be6ce6a06918f0334e028/channel/star-hindi/chunks.m3u8
+#EXTINF:0 tvg-id="Star Sports 2" tvg-logo="https://nflhd.tv/logos/star-sports-2.jpg" group-title="⭐LIVE SPORTS⭐",Star Sports 2
+https://cdtest.global.ssl.fastly.net/1787315601~1be42acde55e0258ab090e22a269f815/channel/star2/chunks.m3u8
+#EXTINF:0 tvg-id="Star Sports 1" tvg-logo="https://nflhd.tv/logos/star-sports-1.jpg" group-title="⭐LIVE SPORTS⭐",Star Sports 1
+https://cdtest.global.ssl.fastly.net/1787315601~f6f5fdc9a7227c2450090e2dab70ab10/channel/star1/chunks.m3u8
+#EXTINF:0 tvg-id="Willow Cricket" tvg-logo="https://nflhd.tv/logos/willow-cricket.jpg" group-title="⭐LIVE SPORTS⭐",Willow Cricket
+https://cdtest.global.ssl.fastly.net/1787315601~0e63f277b44a36b347c0c0bb3e8455e4/channel/97/chunks.m3u8
+#EXTINF:0 tvg-id="Sky Sports Cricket" tvg-logo="https://nflhd.tv/logos/sky%20sports%20cricket.jpg" group-title="⭐LIVE SPORTS⭐",Sky Sports Cricket
+https://cdtest.global.ssl.fastly.net/1787315601~7dff2274036cad31101490e47dbe49ef/channel/99/chunks.m3u8
+#EXTINF:0 tvg-id="SuperSport" tvg-logo="https://gamepanel.work/logos/Supersports-Cricket.jpg" group-title="⭐LIVE SPORTS⭐",SuperSport
+https://cdtest.global.ssl.fastly.net/1787315601~0dcad9c67ba66c12d0a3a12150abff77/channel/103/chunks.m3u8
+#EXTINF:0 tvg-id="Astro Cricket" tvg-logo="https://gamepanel.work/logos/Astro-Cricket.jpg" group-title="⭐LIVE SPORTS⭐",Astro Cricket
+https://cdtest.global.ssl.fastly.net/1787315601~f0346e1b00f244e8bc4579741fee413e/channel/104/chunks.m3u8
+#EXTINF:0 tvg-id="Golf Channel" tvg-logo="https://gamepanel.work/logos/golf-channel.png" group-title="⭐LIVE SPORTS⭐",Golf Channel
+https://cdtest.global.ssl.fastly.net/1787315601~1a1e7df12609114750f5d06ce44d3711/channel/125/chunks.m3u8
+#EXTINF:0 tvg-id="Sky Sports Golf" tvg-logo="https://gamepanel.work/logos/skygolf.jpg" group-title="⭐LIVE SPORTS⭐",Sky Sports Golf
+https://cdtest.global.ssl.fastly.net/1787315601~74a6056e68c56f4dba6ccaeeb550d219/channel/109/chunks.m3u8
+#EXTINF:0 tvg-id="Premier Sports" tvg-logo="https://gamepanel.work/logos/ps.jpg" group-title="⭐LIVE SPORTS⭐",Premier Sports
+https://cdtest.global.ssl.fastly.net/1787315601~1101cfd178d834648fcfe76cc175f5c6/channel/n110/chunks.m3u8
+#EXTINF:0 tvg-id="beIN USA" tvg-logo="https://nflhd.tv/img/bein.jpg" group-title="⭐LIVE SPORTS⭐",beIN USA
+https://cdtest.global.ssl.fastly.net/1787315601~7c4507e686225cd89f93c29dac1bb213/channel/031/chunks.m3u8
 
 #======================================================== END LIST ====================================================================
 
