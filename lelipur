@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-08-27 11:09:00 GMT+7 "
+# (●) Last Update: 2026-08-28 11:09:00 GMT+7 "
 # (●) Service: Lelipur
 # (●) Total Channels: Null
 
@@ -569,8 +569,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV",BTV (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
-https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
@@ -582,7 +582,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV",BTV (FEED)
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
-#======================================================== BTV ====================================================================
+#======================================================== BERITASATU ====================================================================
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -591,7 +591,9 @@ https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-327
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",BERITASATU (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
@@ -737,7 +739,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDONESIA TV",JAKTV (XL1)
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+###https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 ###https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -748,8 +750,8 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-32777070300
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDONESIA TV",JAKTV (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=lite&chname=Jak_tv
+https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
 
 #======================================================== NTV ====================================================================
 
@@ -870,7 +872,9 @@ https://fta3-cdn-flr.visionplus.id/out/v1/f16b53f0d5ed459da208c459049c9bb0/index
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/elshintatv.jpg" group-title="INDONESIA TV",ELSHINTA TV (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h228/index.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S2/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #======================================================== ANTARA TV ====================================================================
@@ -1292,6 +1296,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-32777
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://mimipipi22.github.io/logo/movies/mycinemaeurope.jpg" group-title="MOVIES",MY CINEMA EUROPE (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
@@ -1352,10 +1357,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK (TS)
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-http://013tv.com:8080/F33848/cbd9779b/165095
+http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
+http://ikitv.sqn.at:8000/play/a045/index.m3u8
 
 #======================================================== BIOSKOP INDONESIA ====================================================================
 
@@ -1663,7 +1669,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",KPLUS
 ###https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
 ###https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
-###http://103.148.44.38:8000/play/a05s/index.m3u8
+http://ikitv.sqn.at:8000/play/a50/index.m3u8
 http://013tv.com:8080/F33848/cbd9779b/197969
 http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
 
@@ -1701,11 +1707,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 
 #======================================================== ANIPLUS ====================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="ENTERTAINMENT",ANIPLUS
-http://rjcf.ofztvxv.top:8080/VIP0168175968003861/6gsfgs2zaf5d/34397
+http://ikitv.sqn.at:8000/play/a001/index.m3u8
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 ###https://slive.mana2.my/AniPlus/index.mpd
@@ -1721,9 +1727,9 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CDR3
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="ENTERTAINMENT",CHINESE DRAMA
+#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="ENTERTAINMENT",CHINESE DRAMA (TS)
 ###https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-http://013tv.com:8080/F33848/cbd9779b/298516
+http://013tv.com:8080/live/F33848/cbd9779b/298516.ts
 
 #======================================================== CITRA DRAMA ====================================================================
 
@@ -1844,6 +1850,9 @@ https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 #EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="ENTERTAINMENT",!NSERT
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
+#EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="ENTERTAINMENT",!NSERT (TS)
+http://ikitv.sqn.at:8000/play/a003/index.m3u8
+
 #======================================================== DENS SHOWBIZ ====================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1886,18 +1895,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=w
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Movies.News.id" tvg-name="Movies News" tvg-logo="https://mimipipi22.github.io/logo/entertainment/movienews.jpg" group-title="ENTERTAINMENT",MOVIES NEWS
 ###https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
-
-#========================================================  ====================================================================
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BBC ENTERTAINMENT (NITRO)
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BBC FIRST (NITRO)
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
 #======================================================== END LIST ====================================================================
 
@@ -2486,9 +2483,9 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #======================================================== NBA TV ====================================================================
 
-###KODIPROP:inputstream.adaptive.manifest_type=mpd
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
@@ -2509,7 +2506,8 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
 #======================================================== MOJI TV SPORT ====================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="SPORTS",MOJI TV SPORTS (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
@@ -2941,8 +2939,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=DTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 #EXTINF:-1 tvg-id="Hunan.International.sg" tvg-name="Hunan TV" tvg-logo="https://mimipipi22.github.io/logo/international/hunantv.jpg" group-title="WORLD TV",HUNAN TV (XL1)
-https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
+###https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
+###https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3480,7 +3478,7 @@ https://cdnbal1.indihometv.com/atm/DASH/aljazeera/aljazeera-avc1_2500000=7-32777
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Al.Jazeera.English.id" tvg-name="Al Jazeera English" tvg-logo="https://mimipipi22.github.io/logo/news/aljazeeraeng.jpg" group-title="NEWS",ALJAZEERA ENGLISH (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h143/index2.m3u8?app_type=web&userid=lite&chname=Al_Jazeera_English
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8?app_type=web&userid=lite&chname=Al_Jazeera_English
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3735,7 +3733,7 @@ https://live-news.video.9c9media.com/f/news/ctvnews/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="NEWS",DIM TV (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h232/index2.m3u8?app_type=web&userid=lite&chname=DIM_TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8?app_type=web&userid=lite&chname=DIM_TV
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -4414,7 +4412,7 @@ https://flv.intechmedia.net/live/ch29.m3u8?|user-agent=YouTV/1.5.6-prod.release 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=142&type=fitnah
-#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=142
+###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=142
 ###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=142.play
 #EXTINF:-1 tvg-id="Music.TV.id" tvg-name="Music TV" tvg-logo="https://mimipipi22.github.io/logo/music/musictv.jpg" group-title="MUSIC",MUSIC TV (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
@@ -4422,7 +4420,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #======================================================== [MTV] ====================================================================
 
 #EXTINF:-1 tvg-id="MTV.Classic.us" tvg-name="MTV Classic" tvg-logo="https://mimipipi22.github.io/logo/music/mtv90.jpg" group-title="MUSIC",MTV CLASSIC
-https://tv.media4u.top:443/live/media4u/media4u/665696
+#
 
 #EXTINF:-1 tvg-id="MTV.Live.us" tvg-name="MTV Live" tvg-logo="https://mimipipi22.github.io/logo/music/mtvlive.jpg" group-title="MUSIC",MTV LIVE (USA)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
@@ -4562,6 +4560,9 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 
 #======================================================== ASIAN FOOD NETWORK ====================================================================
 
+#EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN (TS)
+http://013tv.com:8080/live/F33848/cbd9779b/298503.ts
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4572,8 +4573,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 
 #======================================================== HGTV ====================================================================
 
-#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/hgtv.jpg" group-title="LIFESTYLE",HGTV (UDP)
-###http://202.169.224.202:8800/udp/239.9.1.3:1234
+#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/hgtv.jpg" group-title="LIFESTYLE",HGTV (TS)
+http://013tv.com:8080/live/F33848/cbd9779b/298535.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
@@ -6556,7 +6557,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/0f5clvxn6o/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 #EXTINF:-1 tvg-id="BBCEntertainment" group-title="⭐ENTERTAINMENT⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BBC_Entertainment_2011.svg/revision/latest?cb=20190430143020",BBC ENTERTAINMENT (NITRO)
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6565,12 +6566,39 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/
 #EXTINF:-1 tvg-id="BBCFirst" group-title="⭐ENTERTAINMENT⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/BBC_First_%282014%29_%28Boxless%29.svg/revision/latest/scale-to-width-down/1000?cb=20220624203829",BBC FIRST (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"},{"kty":"oct","kid":"q_No7DBlMDMtV3H3nfgkwQ","k":"zcUkd_y0IGsEOnE6a_oRmQ"}]}
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/AXN_White_logo_%282015%29.svg/revision/latest?cb=20180914131151" group-title="⭐ENTERTAINMENT⭐",AXN WHITE (NITRO)
 https://a164aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/hlkbg1ngqb/out/v1/86088477f9f646e3ac7230fc23738e8a/cenc.mpd
 
+#======================================================== SONY ONE ====================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5894EBA80A8AEE9FAB4A925183185D99:fe50655307fbdc2c4989c195423ccecf
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.i6zR9b0gl6jls0OApZBoTAAAAA?pid=Api&P=0&h=220" group-title="⭐ENTERTAINMENT⭐", COMEDY HITS
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1B43E3D441B36356BB900D93AC88301B:7cca6e6854c136297e848e9381565b7a
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.pK-naSEHQVrF2XQwFj0ITAAAAA?pid=Api&P=0&h=220" group-title="⭐ENTERTAINMENT⭐", FAVES
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6uh6_QOtX23TrSVHY0gQKQAAAA?pid=Api&P=0&h=220" group-title="⭐ENTERTAINMENT⭐", ACTION HITS
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=E1CE486C2BD4A4F6C6007A0A7B454EFA:ae46c390767c07d69c65a45d45a75c11
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9rVQza0711qr1xjOEW4scgAAAA?pid=Api&P=0&h=220" group-title="⭐ENTERTAINMENT⭐", COMEDY TV
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.SXHtdobhpBgeebb4rP0TJAAAAA?pid=Api&P=0&h=220" group-title="⭐ENTERTAINMENT⭐", THRILLER TV
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
 
 #======================================================== KOREAN DRAMA ====================================================================
 
