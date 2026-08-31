@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-08-28 11:09:00 GMT+7 "
+# (●) Last Update: 2026-08-31 11:09:00 GMT+7 "
 # (●) Service: Lelipur
 # (●) Total Channels: Null
 
@@ -38,7 +38,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 ###https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -244,6 +244,9 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV (VDO)
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV (TS)
+http://ktpremium.world:2095/live/xm1001/4757410/73607.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -285,10 +288,10 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR (UDP)
-###http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-http://202.169.224.202:8800/udp/239.4.4.2:1234
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR (TS)
+http://ktpremium.world:2095/live/xm1001/4757410/73617.m3u8
+###http://202.169.224.202:8800/udp/239.9.1.25:1234
+###http://202.169.224.202:8800/udp/239.4.4.2:1234
 ###http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -343,9 +346,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV (KILAS)
-###http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV (TS)
+http://ktpremium.world:2095/live/xm1001/4757410/73608.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
@@ -373,8 +375,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="INDONESIA TV",TRANS 7 (FEED)
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="INDONESIA TV",TRANS 7 (TS)
+http://ktpremium.world:2095/live/xm1001/4757410/73609.m3u8
+###https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
@@ -977,7 +980,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO (TS)
-http://ikitv.sqn.at:8000/play/a009/index.m3u8
+http://ikitv.sqn.at:8000/play/a024/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1056,7 +1059,7 @@ http://ikitv.sqn.at:8000/play/a051/index.m3u8
 ###https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY (TS)
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
+http://ikitv.sqn.at:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2531,8 +2534,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 ###https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (TS)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://ikitv.sqn.at:8000/play/a027/index.m3u8
 ###http://119.82.250.109:8080/nl.m3u8?id=1167
 
 #======================================================== MAX SPORTS ====================================================================
@@ -4050,6 +4054,13 @@ https://051c33e45562495c9ddd9da786ba3e0c.mediatailor.us-east-1.amazonaws.com/v1/
 
 #======================================================== CARTOON NETWORK ====================================================================
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK (NITRO)
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK (USA)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
@@ -4190,6 +4201,26 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR (USA)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
 
+#======================================================== DISNEY ====================================================================
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="KIDS",DISNEY CHANNEL (NITRO)
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
+#EXTINF:-1 tvg-id="THREEHOUSE" tvg-name="Threehouse" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/treehouse.png" group-title="KIDS",TREEHOUSE (NITRO)
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+#EXTINF:-1 tvg-id="YTV" tvg-name="YTV" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="KIDS",YTV (NITRO)
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
 #======================================================== CARTOON TV ====================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4313,9 +4344,10 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 
 ###EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 ###EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="KIDS",VIVA TV (UDP)
+#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="KIDS",VIVA TV (TS)
 ###http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
 ###https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #======================================================== HOREE ====================================================================
@@ -5807,7 +5839,7 @@ http://bgdc.live:25461/joak18@yahoo.com/5643956/31411
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="⭐⭐SPORTS⭐⭐",SportsNet FHD
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="⭐⭐SPORTS⭐⭐",SportsNet FHD (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
 
 #========================================================  ====================================================================
@@ -5816,21 +5848,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",F1 TV US
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",F1 TV US (NITRO)
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",FORMULA 1 TV
+EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",FORMULA 1 TV (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="⭐⭐SPORTS⭐⭐",Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="⭐⭐SPORTS⭐⭐",Fox Sports Premium (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #========================================================  ====================================================================
@@ -5839,14 +5871,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",One Fight FHD
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",One Fight FHD (NITRO)
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",Server 2
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",Server 2 (SG)
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #========================================================  ====================================================================
@@ -5855,21 +5887,21 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 1
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 1 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 2
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 2 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",beIN SPORTS 3 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #========================================================  ====================================================================
@@ -5878,13 +5910,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",TENNIS 2 FHD
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="⭐⭐SPORTS⭐⭐",TENNIS 2 (NITRO)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",MotoGP Channel
+#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",MotoGP Channel (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #======================================================== TSN SPORTS ====================================================================
@@ -5895,6 +5927,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="⭐⭐SPORTS⭐⭐",TSN SPORTS 1 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5934,6 +5967,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 1 🇬🇧 (NITRO)
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 2 🇬🇧 (NITRO)
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 2 🇬🇧 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
@@ -5942,7 +5987,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 #EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 3 🇬🇧 (NITRO)
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 3 🇬🇧 (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4 🇬🇧 (NITRO)
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6343,180 +6400,6 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #========================================================  ====================================================================
 
-#EXTINF:0 tvg-id="NFL Network" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="⭐LIVE SPORTS⭐",NFL Network
-https://cdtest.global.ssl.fastly.net/1787912187~be84030e05f099ffc76ec059627e8876/channel/0006/chunks.m3u8
-#EXTINF:0 tvg-id="Red Zone" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="⭐LIVE SPORTS⭐",Red Zone
-https://cdtest.global.ssl.fastly.net/1787912187~86ec286cd3a7ccc1238bb6d781a052f5/channel/011/chunks.m3u8
-#EXTINF:0 tvg-id="Red Zone2" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="⭐LIVE SPORTS⭐",Red Zone2
-https://cdtest.global.ssl.fastly.net/1787912187~af804fcbb9b91b943d19491c068d4390/channel/161/chunks.m3u8
-#EXTINF:0 tvg-id="PAC 12 Network" tvg-logo="https://gamepanel.work/logos/pac12.png" group-title="⭐LIVE SPORTS⭐",PAC 12 Network
-https://cdtest.global.ssl.fastly.net/1787912187~00e28b3f5913e9672fccdc49af0b06de/channel/160/chunks.m3u8
-#EXTINF:0 tvg-id="Marquee Network" tvg-logo="https://gamepanel.work/logos/marquee.jpg" group-title="⭐LIVE SPORTS⭐",Marquee Network
-https://cdtest.global.ssl.fastly.net/1787912187~97acc4f9d34db2494cbda6d2d9b15743/channel/124/chunks.m3u8
-#EXTINF:0 tvg-id="NBA TV" tvg-logo="https://nflhd.tv/img/nbatv.jpg" group-title="⭐LIVE SPORTS⭐",NBA TV
-https://cdtest.global.ssl.fastly.net/1787912187~ce67ed37c670fde3357b1332a8328a42/luster/15/chunks.m3u8
-#EXTINF:0 tvg-id="NHL Network" tvg-logo="https://nflhd.tv/nhl-network.png" group-title="⭐LIVE SPORTS⭐",NHL Network
-https://cdtest.global.ssl.fastly.net/1787912187~d991af66f44f9c720616b3588dba1555/channel/12/chunks.m3u8
-#EXTINF:0 tvg-id="MLB Network" tvg-logo="https://nflhd.tv/img/mlb-network.jpg?i=1" group-title="⭐LIVE SPORTS⭐",MLB Network
-https://cdtest.global.ssl.fastly.net/1787912187~4aa4993a87d0b5738870a56ba0be623a/channel/14/chunks.m3u8
-#EXTINF:0 tvg-id="Root Sports NW" tvg-logo="https://gamepanel.work/logos/root-sports.jpg" group-title="⭐LIVE SPORTS⭐",Root Sports NW
-https://cdtest.global.ssl.fastly.net/1787912187~1ee8e0f2ae718ca08b47f42cf88eec0c/channel/153/chunks.m3u8
-
-#EXTINF:0 tvg-id="FanDuel Sports Network Detroit" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Detroit-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Detroit
-https://cdtest.global.ssl.fastly.net/1787912187~e90d2613ccc3f442bdfaa1e752ebaacb/channel/68/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Florida" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Florida-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Florida
-https://cdtest.global.ssl.fastly.net/1787912187~35bfe28f6b7006ade0c11a70003f8b5e/channel/69/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Great Lakes" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Ohio-Great-Lakes-Logo.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Great Lakes
-https://cdtest.global.ssl.fastly.net/1787912187~88bb84d14616d15fb22bf8ca777cb23a/channel/83/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Indiana" tvg-logo="https://gamepanel.work/logos/bally-sports-indiana.jpg?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Indiana
-https://cdtest.global.ssl.fastly.net/1787912187~742299b1993628f399851b0bd180cb38/channel/119/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Kansas City" tvg-logo="https://gamepanel.work/logos/bally-sports-kc.png?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Kansas City
-https://cdtest.global.ssl.fastly.net/1787912187~6693b1f3c3dba42e057419674da0396b/channel/157/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Midwest" tvg-logo="https://gamepanel.work/logos/Bally-sports-Midwest.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Midwest
-https://cdtest.global.ssl.fastly.net/1787912187~ec4b5909fb4196e8135536bc1445db92/channel/70/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network New Orleans" tvg-logo="https://gamepanel.work/logos/Bally-sports-New-Orleans.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network New Orleans
-https://cdtest.global.ssl.fastly.net/1787912187~4fa316a154f4ecbe39ccd20ce1b1867f/channel/71/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network North" tvg-logo="https://gamepanel.work/logos/bally-sports-north.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network North
-https://cdtest.global.ssl.fastly.net/1787912187~c121a66542ac372efbafb5625233f2e0/channel/63/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network North +" tvg-logo="https://gamepanel.work/logos/Bally-sports-north-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network North +
-https://cdtest.global.ssl.fastly.net/1787912187~26d5f54acd2b5694ecd48fe4d71bea6b/channel/66/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Ohio" tvg-logo="https://gamepanel.work/logos/Bally-sports-ohio.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Ohio
-https://cdtest.global.ssl.fastly.net/1787912187~e9f4db5c555179bb3a6f18d657576234/channel/64/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Oklahoma" tvg-logo="https://gamepanel.work/logos/Bally-sports-Oklahoma.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Oklahoma
-https://cdtest.global.ssl.fastly.net/1787912187~f3dfa4d61f83331172d42327e4ca9b09/channel/73/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network San Diego" tvg-logo="https://gamepanel.work/logos/Bally-sports-san-deigo.png" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network San Diego
-https://cdtest.global.ssl.fastly.net/1787912187~6e958740aa2263129b38e92f36b01b81/channel/75/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network SoCal" tvg-logo="https://gamepanel.work/logos/bally-sports-socal.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network SoCal
-https://cdtest.global.ssl.fastly.net/1787912187~d1588deee7296b4d41574d672326f0c9/channel/79/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network South" tvg-logo="https://gamepanel.work/logos/bally-south.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network South
-https://cdtest.global.ssl.fastly.net/1787912187~7aeb45700273e9c281ac2319b502c8dd/channel/76/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Southeast" tvg-logo="https://gamepanel.work/logos/bally-southeast.png?i=1" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Southeast
-https://cdtest.global.ssl.fastly.net/1787912187~e7b417d19c4afc717fbf8fbc4c279401/channel/156/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Sun" tvg-logo="https://gamepanel.work/logos/Bally-sports-sun.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Sun
-https://cdtest.global.ssl.fastly.net/1787912187~54c624107150d924113f8dae9885d136/channel/78/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network West" tvg-logo="https://gamepanel.work/logos/Bally-sports-west.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network West
-https://cdtest.global.ssl.fastly.net/1787912187~63117938289eddfd2b3f96a387419f6a/channel/80/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin" tvg-logo="https://gamepanel.work/logos/bally-wisconsin.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin
-https://cdtest.global.ssl.fastly.net/1787912187~16cb7bbdb2f34098913f028be54acc7f/channel/81/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin +" tvg-logo="https://gamepanel.work/logos/bally-wisconsin-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin +
-https://cdtest.global.ssl.fastly.net/1787912187~03cb6e0b6b33c8a917283424e54b0a04/channel/147/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin Extra" tvg-logo="https://gamepanel.work/logos/bally-ohiocincinnati.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Wisconsin Extra
-https://cdtest.global.ssl.fastly.net/1787912187~954685beb78e5e1b148b9b51f85e36a8/channel/129/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network South +" tvg-logo="https://gamepanel.work/logos/bally-south-plus.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network South +
-https://cdtest.global.ssl.fastly.net/1787912187~08f34e9f0d7535c7ef72b0beb174868c/channel/145/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Southwest" tvg-logo="https://gamepanel.work/logos/bally-sports-southwest-logo.jpg" group-title="⭐LIVE SPORTS⭐",FanDuel Sports Network Southwest
-https://cdtest.global.ssl.fastly.net/1787912187~e68622c2aa3f6c880874fee16a5e2123/channel/120/chunks.m3u8
-
-#EXTINF:0 tvg-id="Yes Network" tvg-logo="https://gamepanel.work/logos/Yes-Network.jpg" group-title="⭐LIVE SPORTS⭐",Yes Network
-https://cdtest.global.ssl.fastly.net/1787912187~8b04a67d34d73189154b3aa9e4daa859/channel/82/chunks.m3u8
-#EXTINF:0 tvg-id="MASN" tvg-logo="https://gamepanel.work/logos/masn.jpg" group-title="⭐LIVE SPORTS⭐",MASN
-https://cdtest.global.ssl.fastly.net/1787912187~3f048d275e2a6b36b574fff779a10567/channel/135/chunks.m3u8
-#EXTINF:0 tvg-id="MASN2" tvg-logo="https://gamepanel.work/logos/masn2.jpg" group-title="⭐LIVE SPORTS⭐",MASN2
-https://cdtest.global.ssl.fastly.net/1787912187~57f79c4753276542a117be4e04d74ee0/channel/136/chunks.m3u8
-#EXTINF:0 tvg-id="NESN" tvg-logo="https://gamepanel.work/logos/nesn.jpg" group-title="⭐LIVE SPORTS⭐",NESN
-https://cdtest.global.ssl.fastly.net/1787912187~294678a2cf3116be202b1ac0a9c54c7e/channel/137/chunks.m3u8
-#EXTINF:0 tvg-id="NESN2" tvg-logo="https://gamepanel.work/logos/nesn2.jpg" group-title="⭐LIVE SPORTS⭐",NESN2
-https://cdtest.global.ssl.fastly.net/1787912187~53a61dc152c48d5812d6be6166ad79c9/channel/138/chunks.m3u8
-
-#EXTINF:0 tvg-id="SportsNet Lakers" tvg-logo="https://gamepanel.work/logos/lakers.jpg" group-title="⭐LIVE SPORTS⭐",SportsNet Lakers
-https://cdtest.global.ssl.fastly.net/1787912187~dd771ba566f871e9b337ef034d9a3209/channel/150/chunks.m3u8
-#EXTINF:0 tvg-id="SportsNet LA Dodgers" tvg-logo="https://gamepanel.work/logos/dodgers.jpg" group-title="⭐LIVE SPORTS⭐",SportsNet LA Dodgers
-https://cdtest.global.ssl.fastly.net/1787912187~dc7cfe26cf2f29c4b9662623f6258fbe/channel/151/chunks.m3u8
-
-#EXTINF:0 tvg-id="Space City Home" tvg-logo="https://gamepanel.work/logos/Space-City-Home-Network.jpg" group-title="⭐LIVE SPORTS⭐",Space City Home
-https://cdtest.global.ssl.fastly.net/1787912187~01702a1f12dfa44f1df95beac6f14b19/channel/48/chunks.m3u8
-#EXTINF:0 tvg-id="AT&T Pittsburgh" tvg-logo="https://gamepanel.work/logos/att-pittshburg.jpg" group-title="⭐LIVE SPORTS⭐",AT&T Pittsburgh
-https://cdtest.global.ssl.fastly.net/1787912187~21654cc75fa6d41cc29fcba35f22b4db/channel/132/chunks.m3u8
-#EXTINF:0 tvg-id="Altitude Sports" tvg-logo="https://gamepanel.work/logos/altitude.jpg" group-title="⭐LIVE SPORTS⭐",Altitude Sports
-https://cdtest.global.ssl.fastly.net/1787912187~fb3106ffe32a935729dd538ea6dea59f/channel/123/chunks.m3u8
-
-#EXTINF:0 tvg-id="MSG" tvg-logo="https://gamepanel.work/logos/msg.jpg" group-title="⭐LIVE SPORTS⭐",MSG
-https://cdtest.global.ssl.fastly.net/1787912187~3819d01c7c6cabc9463858d65a354244/channel/122/chunks.m3u8
-#EXTINF:0 tvg-id="MSG+" tvg-logo="https://gamepanel.work/logos/msg-plus.jpg" group-title="⭐LIVE SPORTS⭐",MSG+
-https://cdtest.global.ssl.fastly.net/1787912187~040016f0b90ab1214143d37bb140dd9d/channel/134/chunks.m3u8
-
-#EXTINF:0 tvg-id="TVG Network" tvg-logo="https://gamepanel.work/logos/tvg.jpg?i=1" group-title="⭐LIVE SPORTS⭐",TVG Network
-https://cdtest.global.ssl.fastly.net/1787912187~0310914b8bc0215c2cfeb9a6921723c1/channel/142/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Bay Area" tvg-logo="https://gamepanel.work/logos/nbcsports-bayarea.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Bay Area
-https://cdtest.global.ssl.fastly.net/1787912187~91756eb0e9a2231cb1250273290042c8/channel/84/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Bay Area+" tvg-logo="https://gamepanel.work/logos/nbcsports-bayareaplus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Bay Area+
-https://cdtest.global.ssl.fastly.net/1787912187~2db89fd550f357e97cad3590be001a8a/channel/85/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Boston" tvg-logo="https://gamepanel.work/logos/nbcsports-boston.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Boston
-https://cdtest.global.ssl.fastly.net/1787912187~5a434135a31cce3c55fbf656134f37a4/channel/86/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports California" tvg-logo="https://gamepanel.work/logos/nbcsports-california.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports California
-https://cdtest.global.ssl.fastly.net/1787912187~c7c074fe75e9b118f532e7f9fd5188b6/channel/87/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports California+" tvg-logo="https://gamepanel.work/logos/nbc-california-plus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports California+
-https://cdtest.global.ssl.fastly.net/1787912187~34b9aba665da5a4b2fb7bf62bf01cf13/channel/141/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Chicago" tvg-logo="https://gamepanel.work/logos/nbcsports-chicago.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Chicago
-https://cdtest.global.ssl.fastly.net/1787912187~9ae73f293f6d996505e5c8f3d93cf370/channel/88/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Philadelphia" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphia.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Philadelphia
-https://cdtest.global.ssl.fastly.net/1787912187~e2945d9ded53ab48f421077fdf58afc4/channel/90/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Philadelphia+" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphiaplus.jpg" group-title="⭐LIVE SPORTS⭐",NBC Sports Philadelphia+
-https://cdtest.global.ssl.fastly.net/1787912187~8e170d230ee8d60643ce760585370447/channel/91/chunks.m3u8
-
-#EXTINF:0 tvg-id="Monumental Sports" tvg-logo="https://gamepanel.work/logos/Monumental-sports-network.jpg" group-title="⭐LIVE SPORTS⭐",Monumental Sports
-https://cdtest.global.ssl.fastly.net/1787912187~65c398b28e8db02e063de6a77cfacef5/channel/92/chunks.m3u8
-#EXTINF:0 tvg-id="ESPN" tvg-logo="https://nflhd.tv/landing/espn.jpg" group-title="⭐LIVE SPORTS⭐",ESPN
-https://cdtest.global.ssl.fastly.net/1787912187~c69eac7a50213d8a3a8e09af96311832/channel/n3/chunks.m3u8
-#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://nflhd.tv/ESPN2.png" group-title="⭐LIVE SPORTS⭐",ESPN 2
-https://cdtest.global.ssl.fastly.net/1787912187~b599ff0b341330710d6f93443622928f/channel/4/chunks.m3u8
-#EXTINF:0 tvg-id="ESPNU" tvg-logo="https://gamepanel.work/logos/espnu.jpg" group-title="⭐LIVE SPORTS⭐",ESPNU
-https://cdtest.global.ssl.fastly.net/1787912187~bce945bf3cbff715fbcb84c6a802baef/channel/127/chunks.m3u8
-
-#EXTINF:0 tvg-id="Fox Sports 1" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="⭐LIVE SPORTS⭐",Fox Sports 1
-https://cdtest.global.ssl.fastly.net/1787912187~9d95988646eaa9547dafaf1f98526bd4/channel/7/chunks.m3u8
-#EXTINF:0 tvg-id="Fox Sports 2" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="⭐LIVE SPORTS⭐",Fox Sports 2
-https://cdtest.global.ssl.fastly.net/1787912187~33f8c19a139fe6af78a271ceef678d72/channel/13/chunks.m3u8
-
-#EXTINF:0 tvg-id="BTN Network" tvg-logo="https://gamepanel.work/logos/btn.jpg" group-title="⭐LIVE SPORTS⭐",BTN Network
-https://cdtest.global.ssl.fastly.net/1787912187~929d5fd58f76745a0d06115250d9e7ea/channel/107/chunks.m3u8
-#EXTINF:0 tvg-id="NBC SNY" tvg-logo="https://gamepanel.work/logos/sny.jpg" group-title="⭐LIVE SPORTS⭐",NBC SNY
-https://cdtest.global.ssl.fastly.net/1787912187~cd8dc2296fe8dcd683e961eb252ed42c/channel/95/chunks.m3u8
-#EXTINF:0 tvg-id="ACCN" tvg-logo="https://gamepanel.work/logos/accn.jpg" group-title="⭐LIVE SPORTS⭐",ACCN
-https://cdtest.global.ssl.fastly.net/1787912187~08ccd4ccdadd574c4502a1327b385903/channel/115/chunks.m3u8
-#EXTINF:0 tvg-id="SEC Network" tvg-logo="https://gamepanel.work/logos/sec.jpg" group-title="⭐LIVE SPORTS⭐",SEC Network
-https://cdtest.global.ssl.fastly.net/1787912187~427e9e393b879bd7ba5f20d2630a28cd/channel/117/chunks.m3u8
-#EXTINF:0 tvg-id="Tennis Channel" tvg-logo="https://gamepanel.work/logos/tennis-channel.jpg" group-title="⭐LIVE SPORTS⭐",Tennis Channel
-https://cdtest.global.ssl.fastly.net/1787912187~1c43e937dc534a03791df06d2a67a061/channel/n116/chunks.m3u8
-#EXTINF:0 tvg-id="CBS" tvg-logo="https://nflhd.tv/landing/cbs-sports.jpg" group-title="⭐LIVE SPORTS⭐",CBS
-https://cdtest.global.ssl.fastly.net/1787912187~a5a9749cff4d62a500b5c45322220752/channel/5/chunks.m3u8
-
-#EXTINF:0 tvg-id="TSN 1" tvg-logo="https://nflhd.tv/landing/tsn1.jpg" group-title="⭐LIVE SPORTS⭐",TSN 1
-https://cdtest.global.ssl.fastly.net/1787912187~799ea62ba7d5ae50ab59905c89be84a9/channel/58/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 2" tvg-logo="https://nflhd.tv/landing/tsn2.jpg" group-title="⭐LIVE SPORTS⭐",TSN 2
-https://cdtest.global.ssl.fastly.net/1787912187~b90a5093982452cf2db6cecec8860882/channel/59/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 3" tvg-logo="https://nflhd.tv/landing/tsn3.jpg" group-title="⭐LIVE SPORTS⭐",TSN 3
-https://cdtest.global.ssl.fastly.net/1787912187~d6e3d8265ef96527d829ee083a28b531/channel/60/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 4" tvg-logo="https://nflhd.tv/landing/tsn4.jpg" group-title="⭐LIVE SPORTS⭐",TSN 4
-https://cdtest.global.ssl.fastly.net/1787912187~38528c1cc820c92c465d7e2a10f0c0f0/channel/61/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 5" tvg-logo="https://nflhd.tv/landing/tsn5.jpg" group-title="⭐LIVE SPORTS⭐",TSN 5
-https://cdtest.global.ssl.fastly.net/1787912187~103d83fca9477a91d7a8ca56e660a5a1/channel/62/chunks.m3u8
-
-#EXTINF:0 tvg-id="Star Sports Hindi" tvg-logo="https://nflhd.tv/logos/star-sports-hindi.jpg?i=1" group-title="⭐LIVE SPORTS⭐",Star Sports Hindi
-https://cdtest.global.ssl.fastly.net/1787912187~738afd8d8f7a751ac3059542a4f6ef47/channel/star-hindi/chunks.m3u8
-#EXTINF:0 tvg-id="Star Sports 2" tvg-logo="https://nflhd.tv/logos/star-sports-2.jpg" group-title="⭐LIVE SPORTS⭐",Star Sports 2
-https://cdtest.global.ssl.fastly.net/1787912187~da1fdb718baecc4ca6692b4070b5ee20/channel/star2/chunks.m3u8
-#EXTINF:0 tvg-id="Star Sports 1" tvg-logo="https://nflhd.tv/logos/star-sports-1.jpg" group-title="⭐LIVE SPORTS⭐",Star Sports 1
-https://cdtest.global.ssl.fastly.net/1787912187~29d6a12ee2ad6bda15b1009ceff96497/channel/star1/chunks.m3u8
-#EXTINF:0 tvg-id="Willow Cricket" tvg-logo="https://nflhd.tv/logos/willow-cricket.jpg" group-title="⭐LIVE SPORTS⭐",Willow Cricket
-https://cdtest.global.ssl.fastly.net/1787912187~5ba90226f87b35223332e82704549d2b/channel/97/chunks.m3u8
-
-#EXTINF:0 tvg-id="Sky Sports Cricket" tvg-logo="https://nflhd.tv/logos/sky%20sports%20cricket.jpg" group-title="⭐LIVE SPORTS⭐",Sky Sports Cricket
-https://cdtest.global.ssl.fastly.net/1787912187~5e88545fbee02282e2c92a7cd1103faf/channel/99/chunks.m3u8
-#EXTINF:0 tvg-id="SuperSport" tvg-logo="https://gamepanel.work/logos/Supersports-Cricket.jpg" group-title="⭐LIVE SPORTS⭐",SuperSport
-https://cdtest.global.ssl.fastly.net/1787912187~b4e6112d8be34cdece43ff7fb5975b8c/channel/103/chunks.m3u8
-#EXTINF:0 tvg-id="Astro Cricket" tvg-logo="https://gamepanel.work/logos/Astro-Cricket.jpg" group-title="⭐LIVE SPORTS⭐",Astro Cricket
-https://cdtest.global.ssl.fastly.net/1787912187~e047b1029a35579ab46d9df47186f17a/channel/104/chunks.m3u8
-#EXTINF:0 tvg-id="Golf Channel" tvg-logo="https://gamepanel.work/logos/golf-channel.png" group-title="⭐LIVE SPORTS⭐",Golf Channel
-https://cdtest.global.ssl.fastly.net/1787912187~868b39cbd185bfd4cfd723229b3d8e08/channel/125/chunks.m3u8
-#EXTINF:0 tvg-id="Sky Sports Golf" tvg-logo="https://gamepanel.work/logos/skygolf.jpg" group-title="⭐LIVE SPORTS⭐",Sky Sports Golf
-https://cdtest.global.ssl.fastly.net/1787912187~ca72b89c309337e62cb6019c4f3285df/channel/109/chunks.m3u8
-#EXTINF:0 tvg-id="Premier Sports" tvg-logo="https://gamepanel.work/logos/ps.jpg" group-title="⭐LIVE SPORTS⭐",Premier Sports
-https://cdtest.global.ssl.fastly.net/1787912187~9cef203786b7a4177cfeedbc215d3f1e/channel/n110/chunks.m3u8
-#EXTINF:0 tvg-id="beIN USA" tvg-logo="https://nflhd.tv/img/bein.jpg" group-title="⭐LIVE SPORTS⭐",beIN USA
-https://cdtest.global.ssl.fastly.net/1787912187~c0233078d761d510533069e57f7a2037/channel/031/chunks.m3u8
-#EXTINF:0 tvg-id="TBS" tvg-logo="https://nflhd.tv/img/tbs.jpg" group-title="⭐LIVE SPORTS⭐",TBS
-https://cdtest.global.ssl.fastly.net/1787912187~ab737000532561b7547773e239ba72ee/channel/29/chunks.m3u8
 
 #======================================================== END LIST ====================================================================
 
@@ -7094,242 +6977,281 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 #========================================================  ====================================================================
 
-#EXTINF:-1 tvg-id="SCIENCE_IS_AMAZING" tvg-name="Science is Amazing" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SCIENCE IS AMAZING (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
+#EXTINF:-1 tvg-id="SCIENCE_IS_AMAZING" tvg-name="Science is Amazing" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SCIENCE IS AMAZING (NITRO)
 https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
 ##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/IMG_3236.png/revision/latest?cb=20200917171638",UNSOLVED MYSTERIES (NITRO)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f96d75ed2d96faf9af0857c8e2fbca3:454198d857d8a58591e654321c5e7824
+#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="",UNSOLVED MYSTERIES (NITRO)
 https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/out/v1/15b0b244788c4620abb49708d0b1b37e/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="TRUE_HISTORY" tvg-name="True History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TRUE HISTORY (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4d68bcc5dfb7b3d46f5d8acc435e84d:21e94e24b5a1b1edca66764857471584
+#EXTINF:-1 tvg-id="TRUE_HISTORY" tvg-name="True History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TRUE HISTORY (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/out/v1/ae342f822d9045f683a622f5b39c8daa/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="STARTALK" tvg-name="StarTalk" tvg-logo="https://startalkmedia.com/wp-content/themes/startalk%20022/img/logo-startalk-transparent.png" group-title="⭐KNOWLEDGE⭐",STARTALK (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
+#EXTINF:-1 tvg-id="STARTALK" tvg-name="StarTalk" tvg-logo="" group-title="⭐KNOWLEDGE⭐",STARTALK (NITRO)
 https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20210825085349" group-title="⭐KNOWLEDGE⭐",ANIMAL PLANET (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⭐KNOWLEDGE⭐",ANIMAL PLANET (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
 
-#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="https://i.postimg.cc/7P7MnhsF/Amazon-Movies.png",AMAZON MOVIES (NITRO)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+#EXTINF:-1 group-title="⭐KNOWLEDGE⭐" tvg-logo="",AMAZON MOVIES (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-id="BBC_TREASURES" tvg-name="BBC Treasures" tvg-logo="" group-title="⭐KNOWLEDGE⭐",BBC TREASURES (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
+#EXTINF:-1 tvg-id="BBC_TREASURES" tvg-name="BBC Treasures" tvg-logo="" group-title="⭐KNOWLEDGE⭐",BBC TREASURES (NITRO)
 ###https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MAGELLANTV_WILDEST" tvg-name="MagellanTV Wildest" tvg-logo="https://www.magellantv.com/_next/image?url=%2Fimages%2Fmgtv_full_logo_dark.png&w=128&q=75" group-title="⭐KNOWLEDGE⭐",MAGELLANTV WILDEST (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
+#EXTINF:-1 tvg-id="MAGELLANTV_WILDEST" tvg-name="MagellanTV Wildest" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MAGELLANTV WILDEST (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="https://www.wnet.org/wp-content/uploads/sites/1/2023/04/PBS-Nature_h-900x506.jpg" group-title="⭐KNOWLEDGE⭐",PBS NATURE (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
+#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS NATURE (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="PBS_KEN_BURNS" tvg-name="PBS Ken Burns" tvg-logo="https://m.media-amazon.com/images/S/sonata-images-prod/US_3P_PBSDocs_Ken_Burns_Tile/e9bb17e4-2dc3-4880-a39e-35974363c90f._UR1000,1000_SX250_FMwebp_.png" group-title="⭐KNOWLEDGE⭐",PBS KEN BURNS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94324af694aae8210572186c7cf1c04:63c879aa2e3128d12e12ba6956c99c01
+#EXTINF:-1 tvg-id="PBS_KEN_BURNS" tvg-name="PBS Ken Burns" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS KEN BURNS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/out/v1/94ef3b285f51419791b3b435ce449255/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="SPACE_BEYOND" tvg-name="Space & Beyond" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SPACE BEYOND (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=016ea4104bdc43d9a1cf81d50f8ec0d6:d4fdfa9c49307246cdafb6598cbcb255
+#EXTINF:-1 tvg-id="SPACE_BEYOND" tvg-name="Space & Beyond" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SPACE BEYOND (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/out/v1/a032ddc3b3cb4b509462280f7afda8a2/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd
 
-#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+#EXTINF:-1 tvg-id="PBS_TRAVEL" tvg-name="PBS Travel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS TRAVEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="PBS_DOCUMENTARIES" tvg-name="PBS Documentaries" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS DOCUMENTARIES (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d97cf2527ef9b9d20afd7dd446af50b:87713be5a27996ee6901bd46a791f06b
+#EXTINF:-1 tvg-id="PBS_DOCUMENTARIES" tvg-name="PBS Documentaries" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS DOCUMENTARIES (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/out/v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="PBS_GENEALOGY" tvg-name="PBS Genealogy" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS GENEALOGY (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
+#EXTINF:-1 tvg-id="PBS_GENEALOGY" tvg-name="PBS Genealogy" tvg-logo="" group-title="⭐KNOWLEDGE⭐",PBS GENEALOGY (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="HOW_TO" tvg-name="How To" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HOW TO (NITRO)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d4056f8f4078c5f5a5cfb283dd6cddc:c590b5ad9d3a6eac5cc27507ce34089e
+#EXTINF:-1 tvg-id="TRAVEL_AND_ADVENTURE" tvg-name="Travel and Adventure" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TRAVEL AND ADVENTURE
+https://a76aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wrc2mmbfhf/out/v1/6b5f96b0ac5c4e6f9306f9606432ae87/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ff5adf42d6c9bc1043248f17782efe:76252c668a94753e9a5a58c8e17880e3
+#EXTINF:-1 tvg-id="HOME_CRASHER" tvg-name="Home Crasher" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HOME CRASHER
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/djm9xxvfud/out/v1/745da049932d4db4b5148638ed3c08f0/cenc-sd.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a149d8edbd85136248129dd3bbabc5f:45b4f449b8583890ad0b5a50694b16a3
+#EXTINF:-1 tvg-id="TASTEMADE" tvg-name="Tastemade" tvg-logo="" group-title="⭐KNOWLEDGE⭐",TASTEMADE
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/out/v1/9af4f7d76c5f4d4fb0e55c19733d6652/cenc-sd.mpd
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6faaa019c4750430494f30858cd0174d:fff6edbf610f765d2deed97572ffaae4
+#EXTINF:-1 tvg-id="HOW_TO" tvg-name="How To" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HOW TO (NITRO)
 http://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
 ##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 
-#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="⭐KNOWLEDGE⭐",NAT GEO SHARKS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Curiosity_Channel.svg/revision/latest?cb=20230331100542" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd
 
-#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Curiosity_Channel.svg/revision/latest?cb=20230331100542" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="" group-title="⭐KNOWLEDGE⭐",CURIOSITY NOW (NITRO)
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="DINOS_24_7" tvg-name="Dinos 24/7" tvg-logo="" group-title="⭐KNOWLEDGE⭐",DINOS 24/7 (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c0a1b444fe06383801eb7e6c3d42c5b:49020a53f5703243d2c25dc090e83faf
+#EXTINF:-1 tvg-id="DINOS_24_7" tvg-name="Dinos 24/7" tvg-logo="" group-title="⭐KNOWLEDGE⭐",DINOS 24/7 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/out/v1/1afd49d8a5a4498680e97b0206006811/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="EARTHDAY_365" tvg-name="EarthDay 365" tvg-logo="https://earthday-365.org/wp-content/uploads/2019/01/ed365_tm-1.jpg" group-title="⭐KNOWLEDGE⭐",EARTHDAY 365 (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
+#EXTINF:-1 tvg-id="EARTHDAY_365" tvg-name="EarthDay 365" tvg-logo="" group-title="⭐KNOWLEDGE⭐",EARTHDAY 365 (NITRO)
 ###https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MODERN_MARVELS" tvg-name="Modern Marvels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Modern_Marvels_logo2.jpg/revision/latest?cb=20120908173211" group-title="⭐KNOWLEDGE⭐",MODERN MARVELS (NITRO)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e66c5d1959f79a1156b38a0d081843ee:ba4edb5fab98976c81d147e942d9e784
+#EXTINF:-1 tvg-id="HISTORY_UNTOLD" tvg-name="History Untold" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HISTORY UNTOLD (NITRO)
+https://a182aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u00dw9gxcx/out/v1/362826aa6ec044578910c263b7aaa632/cenc.mpd?encoding=segmentBase
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=163975022cfd582eefca8d9e3a9ef4ea:95e911ecff6b8bbcd8c5ca6ea4219d02
+#EXTINF:-1 tvg-id="MODERN_MARVELS" tvg-name="Modern Marvels" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MODERN MARVELS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/out/v1/a5c9712cac43483baaf7314645fe6e9c/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MYTHBUSTERS" tvg-name="Mythbusters" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/230px-Mythbusters_title_screen.jpg/revision/latest?cb=20110917024033" group-title="⭐KNOWLEDGE⭐",MYTHBUSTERS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
+#EXTINF:-1 tvg-id="MYTHBUSTERS" tvg-name="Mythbusters" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MYTHBUSTERS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="ROVR_PETS" tvg-name="Rovr Pets" tvg-logo="https://mma.prnewswire.com/media/1930260/Rovr_Pets_logo.jpg?w=500" group-title="⭐KNOWLEDGE⭐",ROVR PETS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a0b04c7e6cee331b1bfc3bade173679:7eb84ef9f9a595b8264c592acff00f82
+#EXTINF:-1 tvg-id="ROVR_PETS" tvg-name="Rovr Pets" tvg-logo="" group-title="⭐KNOWLEDGE⭐",ROVR PETS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xd2n6xcdrj/out/v1/241665ca85f54611bad30cb2ed23289f/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="REAL_DISASTER_CHANNEL" tvg-name="Real Disaster Channel" tvg-logo="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-05-161050.jpg?q=49&fit=crop&w=825&dpr=2" group-title="⭐KNOWLEDGE⭐",REAL DISASTER CHANNEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4398eb0b3eb86786e4ec7127312cd0:3fec84cee711701c7ada5163ba77b98d
+#EXTINF:-1 tvg-id="REAL_DISASTER_CHANNEL" tvg-name="Real Disaster Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",REAL DISASTER CHANNEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/out/v1/de928716d3d845d5aa5635080fbd5098/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MYSTERIOUS_WORLDS" tvg-name="Mysterious Worlds" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MYSTERIOUS WORLDS (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
+#EXTINF:-1 tvg-id="MYSTERIOUS_WORLDS" tvg-name="Mysterious Worlds" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MYSTERIOUS WORLDS (NITRO)
 https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="⭐KNOWLEDGE⭐",LOVE NATURE (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="" group-title="⭐KNOWLEDGE⭐",LOVE NATURE (NITRO)
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="COMBAT_WAR_CHANNEL" tvg-name="Combat War Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",COMBAT WAR CHANNEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
+#EXTINF:-1 tvg-id="COMBAT_WAR_CHANNEL" tvg-name="Combat War Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",COMBAT WAR CHANNEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="THE_JACK_HANNA_CHANNEL" tvg-name="The Jack Hanna Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",THE JACK HANNA CHANNEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e5886198b5a39670e10ec1016df0189:52280419504b2693427e8aff62810604
+#EXTINF:-1 tvg-id="THE_JACK_HANNA_CHANNEL" tvg-name="The Jack Hanna Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",THE JACK HANNA CHANNEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pmsghnlchw/out/v1/4c81d0ae119b4b0296e7056ef0b3d3e1/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="BBC_EARTH" tvg-name="BBC Earth" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/BBC_Earth_%282023%29.svg/revision/latest?cb=20230913223311" group-title="⭐KNOWLEDGE⭐",BBC EARTH (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
+#EXTINF:-1 tvg-id="BBC_EARTH" tvg-name="BBC Earth" tvg-logo="" group-title="⭐KNOWLEDGE⭐",BBC EARTH (NITRO)
 https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
 ##https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MILITARY_HEROES" tvg-name="Military Heroes" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MILITARY HEROES (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d59c706f0beacd15d11b9ca8a55a3b90:b3facec819b89b565ef5635bf8a77cb9
+#EXTINF:-1 tvg-id="MILITARY_HEROES" tvg-name="Military Heroes" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MILITARY HEROES (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rgzxepokao/out/v1/2be3181942bd4abdbc244bd614396ddd/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="MODERN_INNOVATIONS_BY_HISTORY" tvg-name="Modern Innovations by History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MODERN INNOVATIONS BY HISTORY (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d733f0ac4bd88702afb22ba8cd27aad9:5c3f0468b3e5e7c88d4f342812c08ea4
+#EXTINF:-1 tvg-id="MODERN_INNOVATIONS_BY_HISTORY" tvg-name="Modern Innovations by History" tvg-logo="" group-title="⭐KNOWLEDGE⭐",MODERN INNOVATIONS BY HISTORY (NITRO)
 https://a188aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hikx7374m8/out/v1/ce26c25968b34e0fa3a8c9a4ce222f67/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="HISTORY_HIT_CHANNEL" tvg-name="History Hit Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HISTORY HIT CHANNEL (NITRO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbfd8a5d79b8b84e5b65be1a0ee17dba:99e5e91fc3f9c297abed36000fb1fe88
+#EXTINF:-1 tvg-id="HISTORY_HIT_CHANNEL" tvg-name="History Hit Channel" tvg-logo="" group-title="⭐KNOWLEDGE⭐",HISTORY HIT CHANNEL (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/out/v1/e105d6321667470d872c9bb3d519e6d5/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389f95d8a9d666b885df3872450c0b8b:0371633c8f328383f6cef95c37f57e84
+#EXTINF:-1 tvg-id="SONY_ONE_SHARK_TANK" tvg-name="Sony One Shark Tank" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SONY ONE SHARK TANK (NITRO)
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xvkpuhekwh/out/v1/fc62186207f04a7fb30080364fdc2aa9/cenc.mpd
 
 #======================================================== END LIST ====================================================================
 
@@ -7601,158 +7523,158 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
-http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
-http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
-http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
-http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
-http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
-http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
-http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
-http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
-http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
-http://58.82.168.138:5002/gd02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-http://58.82.168.138:5002/gd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
-http://58.82.168.138:5002/gd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-http://58.82.168.138:5002/gd05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi (Primehome)
-http://58.82.168.138:5002/gd06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
-http://58.82.168.138:5002/gd07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
-http://58.82.168.138:5002/gd08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gd08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
-http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
-http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (Primehome)
-http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (Primehome)
-http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (Primehome)
-http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Primehome)
-http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="KANSAI JAPAN" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
-http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs_ntv" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-nippon-tv-jp.png",BS NTV (Primehome)
-http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi (Primehome)
-http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS (Primehome)
-http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (Primehome)
-http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Primehome)
-http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
-http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Primehome)
-http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Primehome)
-http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
-http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel (Primehome)
-http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
-http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
-http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
-http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
-http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel (Primehome)
-http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax (Primehome)
-http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (Primehome)
-http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A (Primehome)
-http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
-http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="BS JAPAN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-http://58.82.168.138:5002/bs31.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs31.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
-http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
-http://58.82.168.138:5002/cs27.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs27.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
-http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
-http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
-http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
-http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel (Primehome)
-http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next (Primehome)
-http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A (Primehome)
-http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (Primehome)
-http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
-http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
-http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
-http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
-http://58.82.168.138:5002/cs29.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs29.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Primehome)
-http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
-http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops (Primehome)
-http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (Primehome)
-http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
-http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-http://58.82.168.138:5002/cs28.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs28.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
-http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
-http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome)
-http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior (Primehome)
-http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel (Primehome)
-http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet (Primehome)
-http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
-http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome)
-http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)
-http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="CS JAPAN" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
-http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+###http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 
 
 //========================================================================
@@ -7773,7 +7695,6 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=16b71b9c-286a-4295-ab9d-66a661c75dc5
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16b71b9c-286a-4295-ab9d-66a661c75dc5&sub=t2
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/hLbNR/v8T7BGtb9cfuMjciA.jpeg" group-title="▶ HBO MAX", 963-The SpongeBob Movie Search for SquarePants
 #KODIPROP:inputstream.adaptive.license_type=widevine
