@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-09-03 11:09:00 GMT+7 "
+# (●) Last Update: 2026-09-08 11:09:00 GMT+7 "
 # (●) Service: Lelipur
 # (●) Total Channels: Null
 
@@ -289,6 +289,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR (TS)
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 ###http://ktpremium.world:2095/live/xm1001/4757410/73617.m3u8
 ###http://202.169.224.202:8800/udp/239.9.1.25:1234
 ###http://202.169.224.202:8800/udp/239.4.4.2:1234
@@ -816,6 +817,11 @@ https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="INDONESIA TV",JAWAPOST TV (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="INDONESIA TV",JAWAPOST TV (VDO)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9714
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="INDONESIA TV",JAWAPOST TV (FEED)
@@ -4334,6 +4340,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV (VDO)
 https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV (VDO)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
 #======================================================== DUNIA ANAK ====================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4477,15 +4488,18 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 
 #======================================================== [MTV] ====================================================================
 
-#EXTINF:-1 tvg-id="MTV.Classic.us" tvg-name="MTV Classic" tvg-logo="https://mimipipi22.github.io/logo/music/mtv90.jpg" group-title="MUSIC",MTV CLASSIC
-#
-
 #EXTINF:-1 tvg-id="MTV.Live.us" tvg-name="MTV Live" tvg-logo="https://mimipipi22.github.io/logo/music/mtvlive.jpg" group-title="MUSIC",MTV LIVE (USA)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="" group-title="MUSIC",MTV (USA)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/MTV.jp.png" group-title="MUSIC",MTV JAPAN
+http://42.118.247.37:9394/stream/74.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1156799516848246784/Hl_-cHV6.png" tvg-id="MUSICONTV.jp" group-title="MUSIC", JP_CS Music ON! TV
+http://42.118.247.37:9394/stream/131.m3u8
 
 #======================================================== MUSIK INDONESIA ====================================================================
 
@@ -4509,10 +4523,10 @@ http://gvisiontv.channell.my.id/ch/max/gene.php/.mpd?ch=pramborstv
 
 #======================================================== MUSIKA ====================================================================
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/vidio/musica.jpg",MUSIKA (VDO)
-https://nextgenz.my.id/event/pidio/play.mpd?id=7619&type=dash
-https://bitter-boa-67.deno.dev/play.mpd?id=7619&type=dash
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
 
 #======================================================== MIC ====================================================================
 
@@ -6358,10 +6372,16 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_h
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0edd05c739d927233a7e5989d09d877b:7c92518ce13be6934aa5ccd1b4c86457
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="⭐⭐SPORTS⭐⭐",PARAMOUNT+
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vahyju4gzo/out/v1/64009b2146ff4ccdbc36d13c463ace73/d4c6b7ac-0fc5-4ba6-bd82-5472fa215d7b-cenc.mpd?aws_sessionId=d4cb712d-e328-4b2a-9a9e-1e33b3177744
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a71d7af70eaeb1b018ded7640a26562:5d7f73b42c19d3bb68c55d6ee2676b7d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="⭐⭐SPORTS⭐⭐",FULL MATCH PARAMOUNT
-https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash/out/v1/3ee18fe6099c4ab1a985bd8034e5fac2/ipztczhdhupw/cenc-44e61c.mpd
+#
 
 #========================================================  ====================================================================
 
@@ -6387,6 +6407,25 @@ https://tvo-28-3.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 #EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s",DAZN FAST+
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#========================================================  ====================================================================
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo-red.png",STAR SPORT SELLECT (AKR4M)
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg",T SPORT (AKR4M)
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="⭐⭐SPORTS⭐⭐",NAGORIK TV (AKR4M)
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+
+#========================================================  ====================================================================
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="",ITALIA 1
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
 #========================================================  ====================================================================
 
@@ -6475,6 +6514,79 @@ https://webtvstream.bhtelecom.ba/hls15/as_premium5.mpd?n=browsernull-cdn.sam.net
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls10/arena7.mpd?n=browsernull-cdn.sam.net
 
+#======================================================== TUDN ====================================================================
+
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="⭐⭐SPORTS⭐⭐",TUDN 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-id="VIX TUDN" tvg-logo="https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png" group-title="⭐⭐SPORTS⭐⭐",VIX TUDN 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
+
+#======================================================== STARZPLAY ====================================================================
+
+#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/82_STARZPLAY-Sports-1.png" group-title="⭐⭐SPORTS⭐⭐",STARZPLAY 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
+
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/83_STARZPLAY-Sports-2.png" group-title="⭐⭐SPORTS⭐⭐",STARZPLAY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
+
+#EXTINF:-1 tvg-chno="408" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/84_STARZPLAY-Sports-3.png" group-title="⭐⭐SPORTS⭐⭐",STARZPLAY 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+
+#======================================================== SHAHID ====================================================================
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",SHAHID SPORTS 1 🇦🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",SHAHID SPORTS 2 🇦🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",SHAHID SPORTS 3 🇦🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=448128e485ef44d98024e7c5f3fa078b:a5759aeb79afae384819a20c481e2c4a
+https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",SHAHID SPORTS 4 🇦🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
+
+#EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",SHAHID SPORTS 5 🇦🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
+
 #======================================================== RUTUBE ====================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT PREMIER LEAGUE HD (RUTUBE)
@@ -6499,6 +6611,9 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wG
 
 #EXTINF:-1 tvg-name="USA NETWORK" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",USA NETWORK (TMAXAPP)
 https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8
+
+#EXTINF:-1 tvg-name="USA NETWORK" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",DAZN SPORTS (TMAXAPP)
+https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",CBS Sports (TMAXAPP)
 https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8
@@ -7743,6 +7858,42 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 //========================================================================
 
 #EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JAPAN",JP_NHK G
+http://42.118.247.37:9394/stream/14.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOABDTV.jp" group-title="JAPAN",JP_NHK E
+http://42.118.247.37:9394/stream/3.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="JOAXDTV.jp" group-title="JAPAN",JP_NTV
+http://42.118.247.37:9394/stream/4.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" tvg-id="JOEXDTV.jp" group-title="JAPAN",JP_TV Asahi
+http://42.118.247.37:9394/stream/7.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/960px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="JORXDTV.jp" group-title="JAPAN",JP_TBS
+http://42.118.247.37:9394/stream/5.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/330px-TV_Tokyo_logo_2023.svg.png" tvg-id="JOTXDTV.jp" group-title="JAPAN",JP_TV Tokyo
+http://42.118.247.37:9394/stream/8.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="JOCXDTV.jp" group-title="JAPAN", JP_Fuji TV
+http://42.118.247.37:9394/stream/12.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JAPAN",JP_Tokyo MX 1
+http://42.118.247.37:9394/stream/17.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1156799516848246784/Hl_-cHV6.png" tvg-id="MUSICONTV.jp" group-title="JAPAN",JP_CS Music ON! TV
+http://42.118.247.37:9394/stream/131.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/1/news24-logo-png_seeklogo-460085.png" tvg-id="NTVNEWS24.jp" group-title="JAPAN",JP_CS NTV News 24
+http://42.118.247.37:9394/stream/112.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JAPAN",JP_NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="JOAXDTV.jp" group-title="JAPAN",JP_NTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" tvg-id="JOEXDTV.jp" group-title="JAPAN",JP_TV Asahi
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/960px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="JORXDTV.jp" group-title="JAPAN",JP_TBS
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/330px-TV_Tokyo_logo_2023.svg.png" tvg-id="JOTXDTV.jp" group-title="JAPAN",JP_TV Tokyo
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="JOCXDTV.jp" group-title="JAPAN",JP_Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#========================================================  ====================================================================
 
 #EXTINF:-1 group-title="TOKYO JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 ###http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
