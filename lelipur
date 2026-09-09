@@ -1049,10 +1049,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO (TS)
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
-https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRTdTbHhRazZWWEU2d2pYSUpzcCsxZw
 http://013tv.com:8080/F33848/cbd9779b/306484
 http://013tv.com:8080/F33848/cbd9779b/197972
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRTdTbHhRazZWWEU2d2pYSUpzcCsxZw
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1088,6 +1088,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://013tv.com:8080/F33848/cbd9779b/306486
 http://013tv.com:8080/F33848/cbd9779b/196480
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NacGpZMlVuMXNjSkt6ZmVoTnh4MWR4MDltWXdTb0o2Q3FpcmZscXJTblhTNg
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1111,7 +1113,6 @@ http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
 
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE (TS)
 http://013tv.com:8080/F33848/cbd9779b/306483
-http://ikitv.sqn.at:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1135,7 +1136,6 @@ http://ikitv.sqn.at:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY (TS)
 http://013tv.com:8080/F33848/cbd9779b/197972
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1152,7 +1152,6 @@ http://ikitv.sqn.at:8000/play/a024/index.m3u8
 ###https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX (TS)
-http://ikitv.sqn.at:8000/play/a047/index.m3u8
 http://013tv.com:8080/F33848/cbd9779b/197964
 https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaaHoyTDhKcWJ3alY4TTMySkNRNDVvWjZKZFJLTUlSQ0pGdHFsQVRzZ2grMw
 
@@ -1599,7 +1598,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 ###https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
 https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzR28yNjAzdkpKZFBZTDFKUUxvdVNMWg
 http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
-http://ikitv.sqn.at:8000/play/a045/index.m3u8
 
 #======================================================== BIOSKOP INDONESIA ====================================================================
 
@@ -1965,12 +1963,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",KPLUS
-http://gvisiontv.channell.my.id/ch/max/gene.php/.mpd?ch=kplus
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34669
 ###https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
 ###https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",KPLUS
-###http://ikitv.sqn.at:8000/play/a50/index.m3u8
 http://013tv.com:8080/F33848/cbd9779b/197969
 http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
 
@@ -2022,7 +2019,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="ENTERTAINMENT",ANIPLUS
-http://ikitv.sqn.at:8000/play/a001/index.m3u8
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 ###https://slive.mana2.my/AniPlus/index.mpd
@@ -2183,7 +2179,7 @@ https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 ###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 #EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="ENTERTAINMENT",!NSERT (TS)
-http://ikitv.sqn.at:8000/play/a003/index.m3u8
+#
 
 #======================================================== DENS SHOWBIZ ====================================================================
 
@@ -2904,7 +2900,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lit
 
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (TS)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://ikitv.sqn.at:8000/play/a027/index.m3u8
 ###http://119.82.250.109:8080/nl.m3u8?id=1167
 
 #======================================================== MAX SPORTS ====================================================================
@@ -5056,7 +5051,6 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 #EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="KIDS",VIVA TV (TS)
 ###http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
 ###https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #======================================================== HOREE ====================================================================
