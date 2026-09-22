@@ -4801,7 +4801,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK (IZZIGO)
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
@@ -4833,6 +4833,13 @@ https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-32777
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 3fc370ab08218da5dad9b9644f1df57b:1ddc60916c0efd29990cb1d319e7710a
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO (IZZIGO)
+https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
 
 #======================================================== DREAMWORKS ====================================================================
 
@@ -5544,7 +5551,7 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 #EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHION TV 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHION TV FHD (FEED)
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHIONTV PARIS L'ORIGINAL (FEED)
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 ### ---------------- GLOBAL FASHION CHANNEL
@@ -6060,6 +6067,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v
 #KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⭐MOVIES⭐",HBO LATINO 🇺🇸 (NITRO)
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://i.ibb.co/zfmjcgb/HBO.png" group-title="⭐MOVIES⭐", HBO 1 (IZZIGO)
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
 #======================================================== MGM ====================================================================
 
@@ -7048,7 +7063,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER BR (NITRO)
+#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIERE CLUBES BR (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7089,41 +7104,55 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 2 (NITRO)
 http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="PREMIER 2" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⭐⭐SPORTS⭐⭐", PREMIER 2 (NITRO)
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 3 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 4 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=332f62eb3cae824e98a4124da29a7d31&key=d1698cda3d040f9051125a61745b596b
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 5 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 6 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=9ee352aac7ed8ee1cb42cfdf322b1cb0&key=053d635fc90e175881bef26cd29f371e
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 7 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=19fb8464136594ce0c66fe3589e88ef4&key=6a0efc4a82a1e087f093c3e5de3e2a3e
 #EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",PREMIER SPORTS 8 (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd
 
 #======================================================== SPORTV ====================================================================
 
@@ -7305,6 +7334,78 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 #EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="⭐⭐SPORTS⭐⭐",FANCODE 2 (NITRO)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#========================================================  ====================================================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+#EXTINF:-1 tvg-id="SKY SPORT LA LIGA FHD" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT LA LIGA FHD (IZZIGO)
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+#EXTINF:-1 tvg-id="SKY SPORT BUNDESLIGA FHD" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT BUNDESLIGA FHD (IZZIGO)
+https://zap-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="SKY SPORT HYPERMOTION" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT HYPERMOTION (IZZIGO)
+https://zap-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="ESPN 2 MEXICO" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="⭐⭐SPORTS⭐⭐", ESPN 2 MEXICO (IZZIGO)
+https://zap-live4-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="TUDN MEXICO" tvg-logo="http://xplatinmedia.com:8080/images/aee75b75c47968e983717d7345e1d91c.png" group-title="⭐⭐SPORTS⭐⭐", TUDN MEXICO (IZZIGO)
+https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="SKY SPORT EVENTOS 1" tvg-logo="https://i.postimg.cc/90h8wFZY/1775011695796.png" group-title="⭐⭐SPORTS⭐⭐", SKY SPORT EVENTOS 1 (IZZIGO)
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="SKY SPORT EVENTOS 1" tvg-logo="https://i.postimg.cc/90h8wFZY/1775011695796.png" group-title="⭐⭐SPORTS⭐⭐", SKY SPORT EVENTOS 1 (IZZIGO)
+https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d220987b13a594b144d1bbb6bedd568:b1778e4c2200a3a885957500b13f5335
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="SKY SPORT EVENTOS 2" tvg-logo="https://i.postimg.cc/90h8wFZY/1775011695796.png" group-title="⭐⭐SPORTS⭐⭐", SKY SPORT EVENTOS 2 (IZZIGO)
+https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+#EXTINF:-1 tvg-id="SKY SPORT EVENTOS 4" tvg-logo="https://i.postimg.cc/90h8wFZY/1775011695796.png" group-title="⭐⭐SPORTS⭐⭐", SKY SPORT EVENTOS 4 (IZZIGO)
+https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
 
 #========================================================  ====================================================================
 
@@ -8042,6 +8143,23 @@ https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #======================================================== [] ====================================================================
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0
+#EXTINF:-1 tvg-id="CORAZON" tvg-logo="https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg" group-title="⭐ENTERTAINMENT⭐", CORAZON
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+#EXTHTTP:{"Referer":"https://player.sensa.com.ar/","webtoken":"1.0"}
+#EXTINF:-1 tvg-id="Novelísima" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png" group-title="⭐ENTERTAINMENT⭐", NOVELISIMA
+https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#======================================================== [] ====================================================================
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="⭐ENTERTAINMENT⭐",ASTRO AOD
 https://cdn.qd.je/163189.php?id=aod
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="⭐ENTERTAINMENT⭐",ASTRO HUANXI (MLY)
@@ -8559,6 +8677,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/
 #KODIPROP:inputstream.adaptive.license_key=389f95d8a9d666b885df3872450c0b8b:0371633c8f328383f6cef95c37f57e84
 #EXTINF:-1 tvg-id="SONY_ONE_SHARK_TANK" tvg-name="Sony One Shark Tank" tvg-logo="" group-title="⭐KNOWLEDGE⭐",SONY ONE SHARK TANK (NITRO)
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xvkpuhekwh/out/v1/fc62186207f04a7fb30080364fdc2aa9/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⭐KNOWLEDGE⭐",WILDEARTH (PLEX)
+https://wildearth-plex.amagi.tv/master.m3u8
 
 #======================================================== END LIST ====================================================================
 
@@ -9385,6 +9506,66 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/k9bcyf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+
+
+//========================================================================
+🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> RUNTIME CINE PREMIUM
+//========================================================================
+
+#EXTINF:-1 tvg-id="ESPANTO FILM FEST" tvg-logo="https://i.postimg.cc/652RCxCP/download-89.jpg" group-title="ESPECIAL HALLOWEN ",ESPANTO FILM FEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="RUNTIME 1" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",RUNTIME 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="RUNTIME 2" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",RUNTIME 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="ACCION" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",ACCION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="FAMILIA" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",FAMILIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="COMEDIA " tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",COMEDIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="ESPANTO " tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",ESPANTO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="ROMANCE" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",ROMANCE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="PELISES" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",PELISES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id="SERIES" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",SERIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-id=" CRIMEN" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME CINE PREMIUM",CRIMEN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0
 
 
 //========================================================================
